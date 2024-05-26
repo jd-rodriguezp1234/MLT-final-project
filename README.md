@@ -16,3 +16,6 @@ Contiene el csv, los scripts y notebooks necesarios para generar el dataset de e
 
 ### 2. Entrenamiento de modelo
 Contiene los scripts y notebooks necesarios para entrenar el modelo de texto a malla, asi como desplegar el modelo para generar mallas no vistas en entrenamiento. Todo esto, se encuentra en la carpeta [project](project).
+
+## Requisitos generales
+El proyecto se hizo en una maquina compatible con CUDA 12.2 y pytorch >= 2.2.0. En cuanto a hardware, se requiere una GPU con al menos 6 GB de VRAM.

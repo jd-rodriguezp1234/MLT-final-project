@@ -1,0 +1,3586 @@
+0_s1273_liver.nii.g_1,liver
+1_s0001_aorta.nii.g_1,aorta
+2_s0001_kidney_right.nii.g_1,kidney right
+3_s0001_liver.nii.g_1,liver
+4_s0004_aorta.nii.g_1,aorta
+5_s0004_kidney_right.nii.g_1,kidney right
+6_s0004_liver.nii.g_1,liver
+7_s0006_aorta.nii.g_1,aorta
+8_s0006_kidney_right.nii.g_1,kidney right
+9_s0006_liver.nii.g_1,liver
+10_s0009_aorta.nii.g_1,aorta
+11_s0009_kidney_right.nii.g_1,kidney right
+12_s0009_liver.nii.g_1,liver
+13_s0010_aorta.nii.g_1,aorta
+14_s0010_kidney_right.nii.g_1,kidney right
+15_s0010_liver.nii.g_1,liver
+16_s0011_aorta.nii.g_1,aorta
+17_s0011_kidney_right.nii.g_1,kidney right
+18_s0011_liver.nii.g_1,liver
+19_s0012_aorta.nii.g_1,aorta
+20_s0012_kidney_right.nii.g_1,kidney right
+21_s0012_liver.nii.g_1,liver
+22_s0013_aorta.nii.g_1,aorta
+23_s0013_kidney_right.nii.g_1,kidney right
+24_s0013_liver.nii.g_1,liver
+25_s0014_aorta.nii.g_1,aorta
+26_s0014_kidney_right.nii.g_1,kidney right
+27_s0014_liver.nii.g_1,liver
+28_s0015_aorta.nii.g_1,aorta
+29_s0015_kidney_right.nii.g_1,kidney right
+30_s0015_liver.nii.g_1,liver
+31_s0016_aorta.nii.g_1,aorta
+32_s0016_kidney_right.nii.g_1,kidney right
+33_s0016_liver.nii.g_1,liver
+34_s0019_aorta.nii.g_1,aorta
+35_s0019_kidney_right.nii.g_1,kidney right
+36_s0019_liver.nii.g_1,liver
+37_s0021_aorta.nii.g_1,aorta
+38_s0022_aorta.nii.g_1,aorta
+39_s0022_kidney_right.nii.g_1,kidney right
+40_s0022_liver.nii.g_1,liver
+41_s0024_aorta.nii.g_1,aorta
+42_s0024_kidney_right.nii.g_1,kidney right
+43_s0024_liver.nii.g_1,liver
+44_s0028_aorta.nii.g_1,aorta
+45_s0028_kidney_right.nii.g_1,kidney right
+46_s0028_liver.nii.g_1,liver
+47_s0029_aorta.nii.g_1,aorta
+48_s0029_kidney_right.nii.g_1,kidney right
+49_s0029_liver.nii.g_1,liver
+50_s0030_aorta.nii.g_1,aorta
+51_s0030_kidney_right.nii.g_1,kidney right
+52_s0030_liver.nii.g_1,liver
+53_s0031_aorta.nii.g_1,aorta
+54_s0031_kidney_right.nii.g_1,kidney right
+55_s0031_liver.nii.g_1,liver
+56_s0032_aorta.nii.g_1,aorta
+57_s0032_liver.nii.g_1,liver
+58_s0034_aorta.nii.g_1,aorta
+59_s0034_kidney_right.nii.g_1,kidney right
+60_s0034_liver.nii.g_1,liver
+61_s0035_aorta.nii.g_1,aorta
+62_s0037_aorta.nii.g_1,aorta
+63_s0037_liver.nii.g_1,liver
+64_s0038_aorta.nii.g_1,aorta
+65_s0038_kidney_right.nii.g_1,kidney right
+66_s0038_liver.nii.g_1,liver
+67_s0039_aorta.nii.g_1,aorta
+68_s0039_kidney_right.nii.g_1,kidney right
+69_s0039_liver.nii.g_1,liver
+70_s0040_aorta.nii.g_1,aorta
+71_s0040_kidney_right.nii.g_1,kidney right
+72_s0040_liver.nii.g_1,liver
+73_s0042_aorta.nii.g_1,aorta
+74_s0042_kidney_right.nii.g_1,kidney right
+75_s0042_liver.nii.g_1,liver
+76_s0044_aorta.nii.g_1,aorta
+77_s0045_aorta.nii.g_1,aorta
+78_s0045_kidney_right.nii.g_1,kidney right
+79_s0045_liver.nii.g_1,liver
+80_s0046_aorta.nii.g_1,aorta
+81_s0046_kidney_right.nii.g_1,kidney right
+82_s0046_liver.nii.g_1,liver
+83_s0048_aorta.nii.g_1,aorta
+84_s0048_kidney_right.nii.g_1,kidney right
+85_s0048_liver.nii.g_1,liver
+86_s0049_aorta.nii.g_1,aorta
+87_s0049_kidney_right.nii.g_1,kidney right
+88_s0049_liver.nii.g_1,liver
+89_s0050_aorta.nii.g_1,aorta
+90_s0050_kidney_right.nii.g_1,kidney right
+91_s0050_liver.nii.g_1,liver
+92_s0052_aorta.nii.g_1,aorta
+93_s0052_kidney_right.nii.g_1,kidney right
+94_s0052_liver.nii.g_1,liver
+95_s0053_aorta.nii.g_1,aorta
+96_s0053_kidney_right.nii.g_1,kidney right
+97_s0053_liver.nii.g_1,liver
+98_s0054_aorta.nii.g_1,aorta
+99_s0054_kidney_right.nii.g_1,kidney right
+100_s0054_liver.nii.g_1,liver
+101_s0057_aorta.nii.g_1,aorta
+102_s0057_kidney_right.nii.g_1,kidney right
+103_s0057_liver.nii.g_1,liver
+104_s0058_aorta.nii.g_1,aorta
+105_s0058_kidney_right.nii.g_1,kidney right
+106_s0058_liver.nii.g_1,liver
+107_s0059_aorta.nii.g_1,aorta
+108_s0059_kidney_right.nii.g_1,kidney right
+109_s0059_liver.nii.g_1,liver
+110_s0061_aorta.nii.g_1,aorta
+111_s0062_aorta.nii.g_1,aorta
+112_s0062_kidney_right.nii.g_1,kidney right
+113_s0062_liver.nii.g_1,liver
+114_s0063_aorta.nii.g_1,aorta
+115_s0065_aorta.nii.g_1,aorta
+116_s0065_kidney_right.nii.g_1,kidney right
+117_s0065_liver.nii.g_1,liver
+118_s0066_aorta.nii.g_1,aorta
+119_s0066_kidney_right.nii.g_1,kidney right
+120_s0066_liver.nii.g_1,liver
+121_s0067_aorta.nii.g_1,aorta
+122_s0067_liver.nii.g_1,liver
+123_s0068_aorta.nii.g_1,aorta
+124_s0068_kidney_right.nii.g_1,kidney right
+125_s0068_liver.nii.g_1,liver
+126_s0069_aorta.nii.g_1,aorta
+127_s0069_kidney_right.nii.g_1,kidney right
+128_s0069_liver.nii.g_1,liver
+129_s0070_aorta.nii.g_1,aorta
+130_s0070_kidney_right.nii.g_1,kidney right
+131_s0070_liver.nii.g_1,liver
+132_s0071_aorta.nii.g_1,aorta
+133_s0071_kidney_right.nii.g_1,kidney right
+134_s0071_liver.nii.g_1,liver
+135_s0072_aorta.nii.g_1,aorta
+136_s0072_kidney_right.nii.g_1,kidney right
+137_s0072_liver.nii.g_1,liver
+138_s0073_aorta.nii.g_1,aorta
+139_s0073_kidney_right.nii.g_1,kidney right
+140_s0073_liver.nii.g_1,liver
+141_s0074_aorta.nii.g_1,aorta
+142_s0075_aorta.nii.g_1,aorta
+143_s0075_kidney_right.nii.g_1,kidney right
+144_s0075_liver.nii.g_1,liver
+145_s0076_aorta.nii.g_1,aorta
+146_s0076_kidney_right.nii.g_1,kidney right
+147_s0076_liver.nii.g_1,liver
+148_s0077_aorta.nii.g_1,aorta
+149_s0077_kidney_right.nii.g_1,kidney right
+150_s0077_liver.nii.g_1,liver
+151_s0078_aorta.nii.g_1,aorta
+152_s0078_kidney_right.nii.g_1,kidney right
+153_s0078_liver.nii.g_1,liver
+154_s0079_aorta.nii.g_1,aorta
+155_s0080_aorta.nii.g_1,aorta
+156_s0080_kidney_right.nii.g_1,kidney right
+157_s0080_liver.nii.g_1,liver
+158_s0082_aorta.nii.g_1,aorta
+159_s0082_kidney_right.nii.g_1,kidney right
+160_s0082_liver.nii.g_1,liver
+161_s0083_aorta.nii.g_1,aorta
+162_s0083_liver.nii.g_1,liver
+163_s0084_aorta.nii.g_1,aorta
+164_s0084_liver.nii.g_1,liver
+165_s0085_aorta.nii.g_1,aorta
+166_s0085_liver.nii.g_1,liver
+167_s0086_aorta.nii.g_1,aorta
+168_s0086_kidney_right.nii.g_1,kidney right
+169_s0086_liver.nii.g_1,liver
+170_s0088_aorta.nii.g_1,aorta
+171_s0088_kidney_right.nii.g_1,kidney right
+172_s0088_liver.nii.g_1,liver
+173_s0089_aorta.nii.g_1,aorta
+174_s0089_kidney_right.nii.g_1,kidney right
+175_s0089_liver.nii.g_1,liver
+176_s0090_aorta.nii.g_1,aorta
+177_s0090_kidney_right.nii.g_1,kidney right
+178_s0090_liver.nii.g_1,liver
+179_s0091_aorta.nii.g_1,aorta
+180_s0091_kidney_right.nii.g_1,kidney right
+181_s0091_liver.nii.g_1,liver
+182_s0092_aorta.nii.g_1,aorta
+183_s0092_kidney_right.nii.g_1,kidney right
+184_s0092_liver.nii.g_1,liver
+185_s0095_aorta.nii.g_1,aorta
+186_s0095_kidney_right.nii.g_1,kidney right
+187_s0095_liver.nii.g_1,liver
+188_s0096_aorta.nii.g_1,aorta
+189_s0096_kidney_right.nii.g_1,kidney right
+190_s0096_liver.nii.g_1,liver
+191_s0098_aorta.nii.g_1,aorta
+192_s0098_kidney_right.nii.g_1,kidney right
+193_s0098_liver.nii.g_1,liver
+194_s0102_aorta.nii.g_1,aorta
+195_s0102_kidney_right.nii.g_1,kidney right
+196_s0102_liver.nii.g_1,liver
+197_s0104_aorta.nii.g_1,aorta
+198_s0105_aorta.nii.g_1,aorta
+199_s0105_kidney_right.nii.g_1,kidney right
+200_s0105_liver.nii.g_1,liver
+201_s0106_aorta.nii.g_1,aorta
+202_s0106_kidney_right.nii.g_1,kidney right
+203_s0106_liver.nii.g_1,liver
+204_s0107_aorta.nii.g_1,aorta
+205_s0107_kidney_right.nii.g_1,kidney right
+206_s0107_liver.nii.g_1,liver
+207_s0108_aorta.nii.g_1,aorta
+208_s0108_kidney_right.nii.g_1,kidney right
+209_s0108_liver.nii.g_1,liver
+210_s0109_aorta.nii.g_1,aorta
+211_s0109_kidney_right.nii.g_1,kidney right
+212_s0109_liver.nii.g_1,liver
+213_s0110_aorta.nii.g_1,aorta
+214_s0111_aorta.nii.g_1,aorta
+215_s0111_kidney_right.nii.g_1,kidney right
+216_s0111_liver.nii.g_1,liver
+217_s0112_aorta.nii.g_1,aorta
+218_s0114_aorta.nii.g_1,aorta
+219_s0114_kidney_right.nii.g_1,kidney right
+220_s0114_liver.nii.g_1,liver
+221_s0115_aorta.nii.g_1,aorta
+222_s0115_kidney_right.nii.g_1,kidney right
+223_s0115_liver.nii.g_1,liver
+224_s0117_aorta.nii.g_1,aorta
+225_s0117_kidney_right.nii.g_1,kidney right
+226_s0117_liver.nii.g_1,liver
+227_s0119_aorta.nii.g_1,aorta
+228_s0119_kidney_right.nii.g_1,kidney right
+229_s0119_liver.nii.g_1,liver
+230_s0120_aorta.nii.g_1,aorta
+231_s0120_kidney_right.nii.g_1,kidney right
+232_s0120_liver.nii.g_1,liver
+233_s0123_aorta.nii.g_1,aorta
+234_s0123_kidney_right.nii.g_1,kidney right
+235_s0123_liver.nii.g_1,liver
+236_s0124_aorta.nii.g_1,aorta
+237_s0124_kidney_right.nii.g_1,kidney right
+238_s0124_liver.nii.g_1,liver
+239_s0128_aorta.nii.g_1,aorta
+240_s0128_liver.nii.g_1,liver
+241_s0129_aorta.nii.g_1,aorta
+242_s0129_kidney_right.nii.g_1,kidney right
+243_s0129_liver.nii.g_1,liver
+244_s0131_aorta.nii.g_1,aorta
+245_s0131_kidney_right.nii.g_1,kidney right
+246_s0131_liver.nii.g_1,liver
+247_s0132_aorta.nii.g_1,aorta
+248_s0132_liver.nii.g_1,liver
+249_s0133_aorta.nii.g_1,aorta
+250_s0133_kidney_right.nii.g_1,kidney right
+251_s0133_liver.nii.g_1,liver
+252_s0135_aorta.nii.g_1,aorta
+253_s0135_kidney_right.nii.g_1,kidney right
+254_s0135_liver.nii.g_1,liver
+255_s0136_aorta.nii.g_1,aorta
+256_s0137_aorta.nii.g_1,aorta
+257_s0137_kidney_right.nii.g_1,kidney right
+258_s0137_liver.nii.g_1,liver
+259_s0138_aorta.nii.g_1,aorta
+260_s0138_kidney_right.nii.g_1,kidney right
+261_s0138_liver.nii.g_1,liver
+262_s0139_aorta.nii.g_1,aorta
+263_s0139_kidney_right.nii.g_1,kidney right
+264_s0139_liver.nii.g_1,liver
+265_s0141_aorta.nii.g_1,aorta
+266_s0141_kidney_right.nii.g_1,kidney right
+267_s0141_liver.nii.g_1,liver
+268_s0143_aorta.nii.g_1,aorta
+269_s0143_kidney_right.nii.g_1,kidney right
+270_s0143_liver.nii.g_1,liver
+271_s0145_aorta.nii.g_1,aorta
+272_s0145_kidney_right.nii.g_1,kidney right
+273_s0145_liver.nii.g_1,liver
+274_s0146_aorta.nii.g_1,aorta
+275_s0146_liver.nii.g_1,liver
+276_s0147_aorta.nii.g_1,aorta
+277_s0147_kidney_right.nii.g_1,kidney right
+278_s0147_liver.nii.g_1,liver
+279_s0150_aorta.nii.g_1,aorta
+280_s0150_kidney_right.nii.g_1,kidney right
+281_s0150_liver.nii.g_1,liver
+282_s0151_aorta.nii.g_1,aorta
+283_s0151_kidney_right.nii.g_1,kidney right
+284_s0151_liver.nii.g_1,liver
+285_s0152_aorta.nii.g_1,aorta
+286_s0153_aorta.nii.g_1,aorta
+287_s0153_kidney_right.nii.g_1,kidney right
+288_s0153_liver.nii.g_1,liver
+289_s0154_aorta.nii.g_1,aorta
+290_s0156_aorta.nii.g_1,aorta
+291_s0156_kidney_right.nii.g_1,kidney right
+292_s0156_liver.nii.g_1,liver
+293_s0157_aorta.nii.g_1,aorta
+294_s0157_kidney_right.nii.g_1,kidney right
+295_s0157_liver.nii.g_1,liver
+296_s0158_aorta.nii.g_1,aorta
+297_s0158_kidney_right.nii.g_1,kidney right
+298_s0158_liver.nii.g_1,liver
+299_s0160_aorta.nii.g_1,aorta
+300_s0160_kidney_right.nii.g_1,kidney right
+301_s0160_liver.nii.g_1,liver
+302_s0161_aorta.nii.g_1,aorta
+303_s0161_kidney_right.nii.g_1,kidney right
+304_s0161_liver.nii.g_1,liver
+305_s0162_aorta.nii.g_1,aorta
+306_s0162_liver.nii.g_1,liver
+307_s0163_aorta.nii.g_1,aorta
+308_s0163_kidney_right.nii.g_1,kidney right
+309_s0163_liver.nii.g_1,liver
+310_s0165_aorta.nii.g_1,aorta
+311_s0165_kidney_right.nii.g_1,kidney right
+312_s0165_liver.nii.g_1,liver
+313_s0166_aorta.nii.g_1,aorta
+314_s0166_kidney_right.nii.g_1,kidney right
+315_s0166_liver.nii.g_1,liver
+316_s0167_aorta.nii.g_1,aorta
+317_s0168_aorta.nii.g_1,aorta
+318_s0168_kidney_right.nii.g_1,kidney right
+319_s0168_liver.nii.g_1,liver
+320_s0169_aorta.nii.g_1,aorta
+321_s0170_aorta.nii.g_1,aorta
+322_s0171_aorta.nii.g_1,aorta
+323_s0171_kidney_right.nii.g_1,kidney right
+324_s0171_liver.nii.g_1,liver
+325_s0172_aorta.nii.g_1,aorta
+326_s0174_aorta.nii.g_1,aorta
+327_s0174_kidney_right.nii.g_1,kidney right
+328_s0174_liver.nii.g_1,liver
+329_s0175_aorta.nii.g_1,aorta
+330_s0175_liver.nii.g_1,liver
+331_s0178_aorta.nii.g_1,aorta
+332_s0178_kidney_right.nii.g_1,kidney right
+333_s0178_liver.nii.g_1,liver
+334_s0179_aorta.nii.g_1,aorta
+335_s0179_kidney_right.nii.g_1,kidney right
+336_s0179_liver.nii.g_1,liver
+337_s0181_aorta.nii.g_1,aorta
+338_s0182_aorta.nii.g_1,aorta
+339_s0182_kidney_right.nii.g_1,kidney right
+340_s0182_liver.nii.g_1,liver
+341_s0183_aorta.nii.g_1,aorta
+342_s0183_kidney_right.nii.g_1,kidney right
+343_s0183_liver.nii.g_1,liver
+344_s0184_aorta.nii.g_1,aorta
+345_s0184_kidney_right.nii.g_1,kidney right
+346_s0184_liver.nii.g_1,liver
+347_s0185_aorta.nii.g_1,aorta
+348_s0188_aorta.nii.g_1,aorta
+349_s0188_kidney_right.nii.g_1,kidney right
+350_s0188_liver.nii.g_1,liver
+351_s0189_aorta.nii.g_1,aorta
+352_s0189_kidney_right.nii.g_1,kidney right
+353_s0189_liver.nii.g_1,liver
+354_s0190_aorta.nii.g_1,aorta
+355_s0190_kidney_right.nii.g_1,kidney right
+356_s0190_liver.nii.g_1,liver
+357_s0191_aorta.nii.g_1,aorta
+358_s0191_kidney_right.nii.g_1,kidney right
+359_s0191_liver.nii.g_1,liver
+360_s0192_aorta.nii.g_1,aorta
+361_s0192_kidney_right.nii.g_1,kidney right
+362_s0192_liver.nii.g_1,liver
+363_s0193_aorta.nii.g_1,aorta
+364_s0193_kidney_right.nii.g_1,kidney right
+365_s0193_liver.nii.g_1,liver
+366_s0194_aorta.nii.g_1,aorta
+367_s0194_kidney_right.nii.g_1,kidney right
+368_s0194_liver.nii.g_1,liver
+369_s0196_aorta.nii.g_1,aorta
+370_s0196_kidney_right.nii.g_1,kidney right
+371_s0196_liver.nii.g_1,liver
+372_s0197_aorta.nii.g_1,aorta
+373_s0197_kidney_right.nii.g_1,kidney right
+374_s0197_liver.nii.g_1,liver
+375_s0199_aorta.nii.g_1,aorta
+376_s0199_kidney_right.nii.g_1,kidney right
+377_s0199_liver.nii.g_1,liver
+378_s0201_aorta.nii.g_1,aorta
+379_s0201_kidney_right.nii.g_1,kidney right
+380_s0201_liver.nii.g_1,liver
+381_s0204_aorta.nii.g_1,aorta
+382_s0204_kidney_right.nii.g_1,kidney right
+383_s0204_liver.nii.g_1,liver
+384_s0206_aorta.nii.g_1,aorta
+385_s0206_kidney_right.nii.g_1,kidney right
+386_s0206_liver.nii.g_1,liver
+387_s0209_aorta.nii.g_1,aorta
+388_s0209_liver.nii.g_1,liver
+389_s0210_aorta.nii.g_1,aorta
+390_s0210_kidney_right.nii.g_1,kidney right
+391_s0210_liver.nii.g_1,liver
+392_s0211_aorta.nii.g_1,aorta
+393_s0211_kidney_right.nii.g_1,kidney right
+394_s0211_liver.nii.g_1,liver
+395_s0212_aorta.nii.g_1,aorta
+396_s0212_kidney_right.nii.g_1,kidney right
+397_s0212_liver.nii.g_1,liver
+398_s0213_aorta.nii.g_1,aorta
+399_s0213_kidney_right.nii.g_1,kidney right
+400_s0213_liver.nii.g_1,liver
+401_s0215_aorta.nii.g_1,aorta
+402_s0215_kidney_right.nii.g_1,kidney right
+403_s0215_liver.nii.g_1,liver
+404_s0216_aorta.nii.g_1,aorta
+405_s0216_kidney_right.nii.g_1,kidney right
+406_s0216_liver.nii.g_1,liver
+407_s0218_aorta.nii.g_1,aorta
+408_s0218_kidney_right.nii.g_1,kidney right
+409_s0218_liver.nii.g_1,liver
+410_s0219_aorta.nii.g_1,aorta
+411_s0219_liver.nii.g_1,liver
+412_s0220_aorta.nii.g_1,aorta
+413_s0220_kidney_right.nii.g_1,kidney right
+414_s0220_liver.nii.g_1,liver
+415_s0221_aorta.nii.g_1,aorta
+416_s0221_kidney_right.nii.g_1,kidney right
+417_s0221_liver.nii.g_1,liver
+418_s0222_aorta.nii.g_1,aorta
+419_s0222_kidney_right.nii.g_1,kidney right
+420_s0222_liver.nii.g_1,liver
+421_s0223_aorta.nii.g_1,aorta
+422_s0223_liver.nii.g_1,liver
+423_s0224_aorta.nii.g_1,aorta
+424_s0224_kidney_right.nii.g_1,kidney right
+426_s0226_aorta.nii.g_1,aorta
+427_s0227_aorta.nii.g_1,aorta
+428_s0227_kidney_right.nii.g_1,kidney right
+429_s0227_liver.nii.g_1,liver
+430_s0228_aorta.nii.g_1,aorta
+431_s0228_kidney_right.nii.g_1,kidney right
+432_s0228_liver.nii.g_1,liver
+433_s0230_aorta.nii.g_1,aorta
+434_s0230_liver.nii.g_1,liver
+435_s0231_aorta.nii.g_1,aorta
+436_s0231_kidney_right.nii.g_1,kidney right
+437_s0231_liver.nii.g_1,liver
+438_s0232_aorta.nii.g_1,aorta
+439_s0232_kidney_right.nii.g_1,kidney right
+440_s0232_liver.nii.g_1,liver
+441_s0233_aorta.nii.g_1,aorta
+442_s0233_kidney_right.nii.g_1,kidney right
+443_s0233_liver.nii.g_1,liver
+444_s0235_aorta.nii.g_1,aorta
+445_s0235_kidney_right.nii.g_1,kidney right
+446_s0235_liver.nii.g_1,liver
+447_s0236_aorta.nii.g_1,aorta
+448_s0236_kidney_right.nii.g_1,kidney right
+449_s0236_liver.nii.g_1,liver
+450_s0237_aorta.nii.g_1,aorta
+452_s0237_liver.nii.g_1,liver
+453_s0238_aorta.nii.g_1,aorta
+454_s0238_kidney_right.nii.g_1,kidney right
+455_s0238_liver.nii.g_1,liver
+456_s0239_aorta.nii.g_1,aorta
+457_s0239_kidney_right.nii.g_1,kidney right
+458_s0239_liver.nii.g_1,liver
+459_s0240_aorta.nii.g_1,aorta
+460_s0240_kidney_right.nii.g_1,kidney right
+461_s0240_liver.nii.g_1,liver
+462_s0241_aorta.nii.g_1,aorta
+463_s0241_liver.nii.g_1,liver
+464_s0242_aorta.nii.g_1,aorta
+465_s0242_kidney_right.nii.g_1,kidney right
+466_s0242_liver.nii.g_1,liver
+467_s0243_aorta.nii.g_1,aorta
+468_s0243_kidney_right.nii.g_1,kidney right
+469_s0243_liver.nii.g_1,liver
+470_s0244_aorta.nii.g_1,aorta
+471_s0244_kidney_right.nii.g_1,kidney right
+472_s0244_liver.nii.g_1,liver
+473_s0245_aorta.nii.g_1,aorta
+474_s0245_kidney_right.nii.g_1,kidney right
+475_s0245_liver.nii.g_1,liver
+476_s0246_aorta.nii.g_1,aorta
+477_s0246_kidney_right.nii.g_1,kidney right
+478_s0246_liver.nii.g_1,liver
+479_s0247_aorta.nii.g_1,aorta
+480_s0247_kidney_right.nii.g_1,kidney right
+481_s0247_liver.nii.g_1,liver
+482_s0248_aorta.nii.g_1,aorta
+483_s0248_kidney_right.nii.g_1,kidney right
+484_s0248_liver.nii.g_1,liver
+485_s0249_aorta.nii.g_1,aorta
+486_s0249_kidney_right.nii.g_1,kidney right
+487_s0249_liver.nii.g_1,liver
+488_s0250_aorta.nii.g_1,aorta
+489_s0250_kidney_right.nii.g_1,kidney right
+490_s0250_liver.nii.g_1,liver
+491_s0252_aorta.nii.g_1,aorta
+492_s0252_kidney_right.nii.g_1,kidney right
+493_s0252_liver.nii.g_1,liver
+494_s0253_aorta.nii.g_1,aorta
+495_s0253_kidney_right.nii.g_1,kidney right
+496_s0253_liver.nii.g_1,liver
+497_s0254_aorta.nii.g_1,aorta
+498_s0255_aorta.nii.g_1,aorta
+499_s0255_kidney_right.nii.g_1,kidney right
+500_s0255_liver.nii.g_1,liver
+501_s0256_aorta.nii.g_1,aorta
+502_s0256_kidney_right.nii.g_1,kidney right
+503_s0256_liver.nii.g_1,liver
+504_s0257_aorta.nii.g_1,aorta
+505_s0257_kidney_right.nii.g_1,kidney right
+506_s0257_liver.nii.g_1,liver
+507_s0258_aorta.nii.g_1,aorta
+508_s0258_kidney_right.nii.g_1,kidney right
+509_s0258_liver.nii.g_1,liver
+510_s0260_aorta.nii.g_1,aorta
+511_s0260_kidney_right.nii.g_1,kidney right
+512_s0260_liver.nii.g_1,liver
+513_s0261_aorta.nii.g_1,aorta
+514_s0261_kidney_right.nii.g_1,kidney right
+515_s0261_liver.nii.g_1,liver
+516_s0262_aorta.nii.g_1,aorta
+517_s0262_kidney_right.nii.g_1,kidney right
+518_s0262_liver.nii.g_1,liver
+519_s0263_aorta.nii.g_1,aorta
+520_s0264_aorta.nii.g_1,aorta
+521_s0264_kidney_right.nii.g_1,kidney right
+522_s0264_liver.nii.g_1,liver
+523_s0265_aorta.nii.g_1,aorta
+524_s0265_kidney_right.nii.g_1,kidney right
+525_s0265_liver.nii.g_1,liver
+526_s0266_aorta.nii.g_1,aorta
+527_s0266_kidney_right.nii.g_1,kidney right
+528_s0266_liver.nii.g_1,liver
+529_s0270_aorta.nii.g_1,aorta
+530_s0270_liver.nii.g_1,liver
+531_s0271_aorta.nii.g_1,aorta
+532_s0271_kidney_right.nii.g_1,kidney right
+533_s0271_liver.nii.g_1,liver
+534_s0275_aorta.nii.g_1,aorta
+535_s0275_kidney_right.nii.g_1,kidney right
+536_s0275_liver.nii.g_1,liver
+537_s0277_aorta.nii.g_1,aorta
+538_s0279_aorta.nii.g_1,aorta
+539_s0281_aorta.nii.g_1,aorta
+540_s0283_aorta.nii.g_1,aorta
+541_s0283_kidney_right.nii.g_1,kidney right
+542_s0283_liver.nii.g_1,liver
+543_s0285_aorta.nii.g_1,aorta
+544_s0285_kidney_right.nii.g_1,kidney right
+545_s0285_liver.nii.g_1,liver
+546_s0286_aorta.nii.g_1,aorta
+547_s0286_kidney_right.nii.g_1,kidney right
+548_s0286_liver.nii.g_1,liver
+549_s0287_aorta.nii.g_1,aorta
+550_s0287_kidney_right.nii.g_1,kidney right
+551_s0287_liver.nii.g_1,liver
+552_s0288_aorta.nii.g_1,aorta
+553_s0289_aorta.nii.g_1,aorta
+554_s0290_aorta.nii.g_1,aorta
+555_s0290_kidney_right.nii.g_1,kidney right
+556_s0290_liver.nii.g_1,liver
+557_s0291_aorta.nii.g_1,aorta
+558_s0291_kidney_right.nii.g_1,kidney right
+559_s0291_liver.nii.g_1,liver
+560_s0292_aorta.nii.g_1,aorta
+561_s0293_aorta.nii.g_1,aorta
+562_s0293_kidney_right.nii.g_1,kidney right
+563_s0293_liver.nii.g_1,liver
+564_s0294_aorta.nii.g_1,aorta
+565_s0294_liver.nii.g_1,liver
+566_s0296_aorta.nii.g_1,aorta
+567_s0298_aorta.nii.g_1,aorta
+568_s0298_kidney_right.nii.g_1,kidney right
+569_s0298_liver.nii.g_1,liver
+570_s0299_aorta.nii.g_1,aorta
+571_s0299_kidney_right.nii.g_1,kidney right
+572_s0299_liver.nii.g_1,liver
+573_s0300_aorta.nii.g_1,aorta
+574_s0300_kidney_right.nii.g_1,kidney right
+575_s0300_liver.nii.g_1,liver
+576_s0301_aorta.nii.g_1,aorta
+577_s0303_aorta.nii.g_1,aorta
+578_s0303_kidney_right.nii.g_1,kidney right
+579_s0303_liver.nii.g_1,liver
+580_s0304_aorta.nii.g_1,aorta
+581_s0304_kidney_right.nii.g_1,kidney right
+582_s0304_liver.nii.g_1,liver
+583_s0305_aorta.nii.g_1,aorta
+584_s0305_kidney_right.nii.g_1,kidney right
+585_s0305_liver.nii.g_1,liver
+586_s0306_aorta.nii.g_1,aorta
+587_s0306_kidney_right.nii.g_1,kidney right
+588_s0306_liver.nii.g_1,liver
+589_s0307_aorta.nii.g_1,aorta
+590_s0307_kidney_right.nii.g_1,kidney right
+591_s0307_liver.nii.g_1,liver
+592_s0308_aorta.nii.g_1,aorta
+593_s0308_kidney_right.nii.g_1,kidney right
+594_s0308_liver.nii.g_1,liver
+595_s0310_aorta.nii.g_1,aorta
+596_s0310_liver.nii.g_1,liver
+597_s0311_aorta.nii.g_1,aorta
+598_s0311_kidney_right.nii.g_1,kidney right
+599_s0311_liver.nii.g_1,liver
+600_s0313_aorta.nii.g_1,aorta
+601_s0313_kidney_right.nii.g_1,kidney right
+602_s0313_liver.nii.g_1,liver
+603_s0314_aorta.nii.g_1,aorta
+604_s0314_kidney_right.nii.g_1,kidney right
+605_s0314_liver.nii.g_1,liver
+606_s0315_aorta.nii.g_1,aorta
+607_s0315_kidney_right.nii.g_1,kidney right
+608_s0315_liver.nii.g_1,liver
+609_s0316_aorta.nii.g_1,aorta
+610_s0319_aorta.nii.g_1,aorta
+611_s0319_kidney_right.nii.g_1,kidney right
+612_s0319_liver.nii.g_1,liver
+613_s0320_aorta.nii.g_1,aorta
+614_s0320_kidney_right.nii.g_1,kidney right
+615_s0320_liver.nii.g_1,liver
+616_s0321_aorta.nii.g_1,aorta
+617_s0321_kidney_right.nii.g_1,kidney right
+618_s0321_liver.nii.g_1,liver
+619_s0322_aorta.nii.g_1,aorta
+620_s0322_liver.nii.g_1,liver
+621_s0324_aorta.nii.g_1,aorta
+622_s0324_kidney_right.nii.g_1,kidney right
+623_s0324_liver.nii.g_1,liver
+624_s0325_aorta.nii.g_1,aorta
+625_s0325_kidney_right.nii.g_1,kidney right
+626_s0325_liver.nii.g_1,liver
+627_s0326_aorta.nii.g_1,aorta
+628_s0327_aorta.nii.g_1,aorta
+629_s0327_kidney_right.nii.g_1,kidney right
+630_s0327_liver.nii.g_1,liver
+631_s0328_aorta.nii.g_1,aorta
+632_s0328_kidney_right.nii.g_1,kidney right
+633_s0328_liver.nii.g_1,liver
+634_s0329_aorta.nii.g_1,aorta
+635_s0329_kidney_right.nii.g_1,kidney right
+636_s0329_liver.nii.g_1,liver
+637_s0330_aorta.nii.g_1,aorta
+638_s0330_kidney_right.nii.g_1,kidney right
+639_s0330_liver.nii.g_1,liver
+640_s0331_aorta.nii.g_1,aorta
+641_s0331_kidney_right.nii.g_1,kidney right
+642_s0331_liver.nii.g_1,liver
+643_s0332_aorta.nii.g_1,aorta
+644_s0332_kidney_right.nii.g_1,kidney right
+645_s0332_liver.nii.g_1,liver
+646_s0333_aorta.nii.g_1,aorta
+647_s0334_aorta.nii.g_1,aorta
+648_s0334_kidney_right.nii.g_1,kidney right
+649_s0334_liver.nii.g_1,liver
+650_s0335_aorta.nii.g_1,aorta
+651_s0335_liver.nii.g_1,liver
+652_s0336_aorta.nii.g_1,aorta
+653_s0336_liver.nii.g_1,liver
+654_s0338_aorta.nii.g_1,aorta
+655_s0338_kidney_right.nii.g_1,kidney right
+656_s0338_liver.nii.g_1,liver
+657_s0339_aorta.nii.g_1,aorta
+658_s0339_kidney_right.nii.g_1,kidney right
+659_s0339_liver.nii.g_1,liver
+660_s0341_aorta.nii.g_1,aorta
+661_s0341_kidney_right.nii.g_1,kidney right
+662_s0341_liver.nii.g_1,liver
+663_s0342_aorta.nii.g_1,aorta
+664_s0342_kidney_right.nii.g_1,kidney right
+665_s0342_liver.nii.g_1,liver
+666_s0343_aorta.nii.g_1,aorta
+667_s0343_kidney_right.nii.g_1,kidney right
+668_s0343_liver.nii.g_1,liver
+669_s0344_aorta.nii.g_1,aorta
+670_s0344_kidney_right.nii.g_1,kidney right
+671_s0344_liver.nii.g_1,liver
+672_s0345_aorta.nii.g_1,aorta
+673_s0345_kidney_right.nii.g_1,kidney right
+674_s0345_liver.nii.g_1,liver
+675_s0346_aorta.nii.g_1,aorta
+676_s0347_aorta.nii.g_1,aorta
+677_s0347_liver.nii.g_1,liver
+678_s0349_aorta.nii.g_1,aorta
+679_s0349_kidney_right.nii.g_1,kidney right
+680_s0349_liver.nii.g_1,liver
+681_s0350_aorta.nii.g_1,aorta
+682_s0350_kidney_right.nii.g_1,kidney right
+683_s0350_liver.nii.g_1,liver
+684_s0353_aorta.nii.g_1,aorta
+685_s0353_liver.nii.g_1,liver
+686_s0354_aorta.nii.g_1,aorta
+687_s0354_kidney_right.nii.g_1,kidney right
+688_s0354_liver.nii.g_1,liver
+689_s0355_aorta.nii.g_1,aorta
+690_s0355_kidney_right.nii.g_1,kidney right
+691_s0355_liver.nii.g_1,liver
+692_s0356_aorta.nii.g_1,aorta
+693_s0356_liver.nii.g_1,liver
+694_s0357_aorta.nii.g_1,aorta
+695_s0357_kidney_right.nii.g_1,kidney right
+696_s0357_liver.nii.g_1,liver
+697_s0358_aorta.nii.g_1,aorta
+698_s0358_kidney_right.nii.g_1,kidney right
+699_s0358_liver.nii.g_1,liver
+700_s0359_aorta.nii.g_1,aorta
+701_s0361_aorta.nii.g_1,aorta
+702_s0361_liver.nii.g_1,liver
+703_s0362_aorta.nii.g_1,aorta
+704_s0362_kidney_right.nii.g_1,kidney right
+705_s0362_liver.nii.g_1,liver
+706_s0363_aorta.nii.g_1,aorta
+707_s0363_liver.nii.g_1,liver
+708_s0364_aorta.nii.g_1,aorta
+709_s0364_liver.nii.g_1,liver
+710_s0365_aorta.nii.g_1,aorta
+711_s0365_kidney_right.nii.g_1,kidney right
+712_s0365_liver.nii.g_1,liver
+713_s0366_aorta.nii.g_1,aorta
+714_s0366_kidney_right.nii.g_1,kidney right
+715_s0366_liver.nii.g_1,liver
+716_s0367_aorta.nii.g_1,aorta
+717_s0367_kidney_right.nii.g_1,kidney right
+718_s0367_liver.nii.g_1,liver
+719_s0368_aorta.nii.g_1,aorta
+720_s0368_liver.nii.g_1,liver
+721_s0369_aorta.nii.g_1,aorta
+722_s0369_kidney_right.nii.g_1,kidney right
+723_s0369_liver.nii.g_1,liver
+724_s0370_aorta.nii.g_1,aorta
+725_s0370_kidney_right.nii.g_1,kidney right
+726_s0370_liver.nii.g_1,liver
+727_s0371_aorta.nii.g_1,aorta
+728_s0371_kidney_right.nii.g_1,kidney right
+729_s0371_liver.nii.g_1,liver
+730_s0372_aorta.nii.g_1,aorta
+731_s0372_kidney_right.nii.g_1,kidney right
+732_s0372_liver.nii.g_1,liver
+733_s0373_aorta.nii.g_1,aorta
+734_s0373_liver.nii.g_1,liver
+735_s0374_aorta.nii.g_1,aorta
+736_s0374_kidney_right.nii.g_1,kidney right
+737_s0374_liver.nii.g_1,liver
+738_s0375_aorta.nii.g_1,aorta
+739_s0375_kidney_right.nii.g_1,kidney right
+740_s0375_liver.nii.g_1,liver
+741_s0376_aorta.nii.g_1,aorta
+742_s0376_liver.nii.g_1,liver
+743_s0377_aorta.nii.g_1,aorta
+744_s0377_liver.nii.g_1,liver
+745_s0378_aorta.nii.g_1,aorta
+746_s0378_kidney_right.nii.g_1,kidney right
+747_s0378_liver.nii.g_1,liver
+748_s0379_aorta.nii.g_1,aorta
+749_s0380_aorta.nii.g_1,aorta
+750_s0380_kidney_right.nii.g_1,kidney right
+751_s0380_liver.nii.g_1,liver
+752_s0381_aorta.nii.g_1,aorta
+753_s0381_liver.nii.g_1,liver
+754_s0382_aorta.nii.g_1,aorta
+755_s0382_liver.nii.g_1,liver
+756_s0383_aorta.nii.g_1,aorta
+757_s0383_kidney_right.nii.g_1,kidney right
+758_s0383_liver.nii.g_1,liver
+759_s0385_aorta.nii.g_1,aorta
+760_s0386_aorta.nii.g_1,aorta
+761_s0386_kidney_right.nii.g_1,kidney right
+762_s0386_liver.nii.g_1,liver
+763_s0389_aorta.nii.g_1,aorta
+764_s0389_liver.nii.g_1,liver
+765_s0390_aorta.nii.g_1,aorta
+766_s0390_kidney_right.nii.g_1,kidney right
+767_s0390_liver.nii.g_1,liver
+768_s0391_aorta.nii.g_1,aorta
+769_s0391_liver.nii.g_1,liver
+770_s0392_aorta.nii.g_1,aorta
+771_s0392_kidney_right.nii.g_1,kidney right
+772_s0392_liver.nii.g_1,liver
+773_s0393_aorta.nii.g_1,aorta
+774_s0393_kidney_right.nii.g_1,kidney right
+775_s0393_liver.nii.g_1,liver
+776_s0394_aorta.nii.g_1,aorta
+777_s0394_kidney_right.nii.g_1,kidney right
+778_s0394_liver.nii.g_1,liver
+779_s0395_aorta.nii.g_1,aorta
+780_s0398_aorta.nii.g_1,aorta
+781_s0398_kidney_right.nii.g_1,kidney right
+782_s0398_liver.nii.g_1,liver
+783_s0399_kidney_right.nii.g_1,kidney right
+784_s0399_liver.nii.g_1,liver
+785_s0400_aorta.nii.g_1,aorta
+786_s0401_aorta.nii.g_1,aorta
+787_s0401_kidney_right.nii.g_1,kidney right
+788_s0401_liver.nii.g_1,liver
+789_s0402_aorta.nii.g_1,aorta
+790_s0402_kidney_right.nii.g_1,kidney right
+791_s0402_liver.nii.g_1,liver
+792_s0403_aorta.nii.g_1,aorta
+793_s0403_kidney_right.nii.g_1,kidney right
+794_s0403_liver.nii.g_1,liver
+795_s0405_aorta.nii.g_1,aorta
+796_s0405_liver.nii.g_1,liver
+797_s0406_aorta.nii.g_1,aorta
+798_s0406_kidney_right.nii.g_1,kidney right
+799_s0406_liver.nii.g_1,liver
+800_s0407_aorta.nii.g_1,aorta
+801_s0407_kidney_right.nii.g_1,kidney right
+802_s0407_liver.nii.g_1,liver
+803_s0408_aorta.nii.g_1,aorta
+804_s0408_kidney_right.nii.g_1,kidney right
+805_s0408_liver.nii.g_1,liver
+806_s0411_aorta.nii.g_1,aorta
+807_s0412_aorta.nii.g_1,aorta
+808_s0412_kidney_right.nii.g_1,kidney right
+809_s0412_liver.nii.g_1,liver
+810_s0413_aorta.nii.g_1,aorta
+811_s0413_liver.nii.g_1,liver
+812_s0414_aorta.nii.g_1,aorta
+813_s0414_kidney_right.nii.g_1,kidney right
+814_s0414_liver.nii.g_1,liver
+815_s0416_aorta.nii.g_1,aorta
+816_s0416_kidney_right.nii.g_1,kidney right
+817_s0416_liver.nii.g_1,liver
+818_s0419_aorta.nii.g_1,aorta
+819_s0420_aorta.nii.g_1,aorta
+820_s0420_liver.nii.g_1,liver
+821_s0421_aorta.nii.g_1,aorta
+822_s0421_liver.nii.g_1,liver
+823_s0422_aorta.nii.g_1,aorta
+824_s0422_kidney_right.nii.g_1,kidney right
+825_s0422_liver.nii.g_1,liver
+826_s0423_aorta.nii.g_1,aorta
+827_s0423_kidney_right.nii.g_1,kidney right
+828_s0423_liver.nii.g_1,liver
+829_s0424_aorta.nii.g_1,aorta
+830_s0424_liver.nii.g_1,liver
+831_s0425_aorta.nii.g_1,aorta
+832_s0425_liver.nii.g_1,liver
+833_s0426_aorta.nii.g_1,aorta
+834_s0428_aorta.nii.g_1,aorta
+835_s0428_kidney_right.nii.g_1,kidney right
+836_s0428_liver.nii.g_1,liver
+837_s0429_aorta.nii.g_1,aorta
+838_s0429_kidney_right.nii.g_1,kidney right
+839_s0429_liver.nii.g_1,liver
+840_s0430_aorta.nii.g_1,aorta
+841_s0430_kidney_right.nii.g_1,kidney right
+842_s0430_liver.nii.g_1,liver
+843_s0431_aorta.nii.g_1,aorta
+844_s0431_kidney_right.nii.g_1,kidney right
+845_s0431_liver.nii.g_1,liver
+846_s0433_aorta.nii.g_1,aorta
+847_s0433_kidney_right.nii.g_1,kidney right
+848_s0433_liver.nii.g_1,liver
+849_s0435_aorta.nii.g_1,aorta
+850_s0436_aorta.nii.g_1,aorta
+851_s0436_kidney_right.nii.g_1,kidney right
+852_s0436_liver.nii.g_1,liver
+853_s0437_aorta.nii.g_1,aorta
+854_s0437_liver.nii.g_1,liver
+855_s0438_aorta.nii.g_1,aorta
+856_s0438_kidney_right.nii.g_1,kidney right
+857_s0438_liver.nii.g_1,liver
+858_s0439_aorta.nii.g_1,aorta
+859_s0439_kidney_right.nii.g_1,kidney right
+860_s0439_liver.nii.g_1,liver
+861_s0440_aorta.nii.g_1,aorta
+862_s0440_kidney_right.nii.g_1,kidney right
+863_s0440_liver.nii.g_1,liver
+864_s0441_aorta.nii.g_1,aorta
+865_s0441_kidney_right.nii.g_1,kidney right
+866_s0441_liver.nii.g_1,liver
+867_s0442_aorta.nii.g_1,aorta
+868_s0444_aorta.nii.g_1,aorta
+869_s0444_liver.nii.g_1,liver
+870_s0445_aorta.nii.g_1,aorta
+871_s0445_kidney_right.nii.g_1,kidney right
+872_s0445_liver.nii.g_1,liver
+873_s0446_aorta.nii.g_1,aorta
+874_s0446_kidney_right.nii.g_1,kidney right
+875_s0446_liver.nii.g_1,liver
+876_s0447_aorta.nii.g_1,aorta
+877_s0447_kidney_right.nii.g_1,kidney right
+878_s0447_liver.nii.g_1,liver
+879_s0450_aorta.nii.g_1,aorta
+880_s0450_kidney_right.nii.g_1,kidney right
+881_s0450_liver.nii.g_1,liver
+882_s0452_aorta.nii.g_1,aorta
+883_s0452_kidney_right.nii.g_1,kidney right
+884_s0452_liver.nii.g_1,liver
+885_s0454_aorta.nii.g_1,aorta
+886_s0455_aorta.nii.g_1,aorta
+887_s0455_kidney_right.nii.g_1,kidney right
+888_s0455_liver.nii.g_1,liver
+889_s0456_aorta.nii.g_1,aorta
+890_s0456_kidney_right.nii.g_1,kidney right
+891_s0456_liver.nii.g_1,liver
+892_s0457_aorta.nii.g_1,aorta
+893_s0457_liver.nii.g_1,liver
+894_s0458_aorta.nii.g_1,aorta
+895_s0458_kidney_right.nii.g_1,kidney right
+896_s0458_liver.nii.g_1,liver
+897_s0459_aorta.nii.g_1,aorta
+898_s0459_kidney_right.nii.g_1,kidney right
+899_s0459_liver.nii.g_1,liver
+900_s0461_aorta.nii.g_1,aorta
+901_s0461_kidney_right.nii.g_1,kidney right
+902_s0461_liver.nii.g_1,liver
+903_s0462_aorta.nii.g_1,aorta
+904_s0462_kidney_right.nii.g_1,kidney right
+905_s0462_liver.nii.g_1,liver
+906_s0463_aorta.nii.g_1,aorta
+907_s0463_kidney_right.nii.g_1,kidney right
+908_s0463_liver.nii.g_1,liver
+909_s0465_aorta.nii.g_1,aorta
+910_s0465_liver.nii.g_1,liver
+911_s0467_aorta.nii.g_1,aorta
+912_s0467_kidney_right.nii.g_1,kidney right
+913_s0467_liver.nii.g_1,liver
+914_s0468_aorta.nii.g_1,aorta
+915_s0468_kidney_right.nii.g_1,kidney right
+916_s0468_liver.nii.g_1,liver
+917_s0469_aorta.nii.g_1,aorta
+918_s0469_kidney_right.nii.g_1,kidney right
+919_s0469_liver.nii.g_1,liver
+920_s0470_aorta.nii.g_1,aorta
+921_s0470_kidney_right.nii.g_1,kidney right
+922_s0470_liver.nii.g_1,liver
+923_s0471_aorta.nii.g_1,aorta
+924_s0471_kidney_right.nii.g_1,kidney right
+925_s0471_liver.nii.g_1,liver
+926_s0472_aorta.nii.g_1,aorta
+927_s0472_kidney_right.nii.g_1,kidney right
+928_s0472_liver.nii.g_1,liver
+929_s0473_aorta.nii.g_1,aorta
+930_s0473_kidney_right.nii.g_1,kidney right
+931_s0473_liver.nii.g_1,liver
+932_s0475_aorta.nii.g_1,aorta
+933_s0476_aorta.nii.g_1,aorta
+934_s0476_kidney_right.nii.g_1,kidney right
+935_s0476_liver.nii.g_1,liver
+936_s0477_aorta.nii.g_1,aorta
+937_s0477_kidney_right.nii.g_1,kidney right
+938_s0477_liver.nii.g_1,liver
+939_s0478_aorta.nii.g_1,aorta
+940_s0480_aorta.nii.g_1,aorta
+941_s0480_kidney_right.nii.g_1,kidney right
+942_s0480_liver.nii.g_1,liver
+943_s0481_aorta.nii.g_1,aorta
+944_s0481_liver.nii.g_1,liver
+945_s0482_aorta.nii.g_1,aorta
+946_s0482_kidney_right.nii.g_1,kidney right
+947_s0482_liver.nii.g_1,liver
+948_s0483_aorta.nii.g_1,aorta
+949_s0483_kidney_right.nii.g_1,kidney right
+950_s0483_liver.nii.g_1,liver
+951_s0484_aorta.nii.g_1,aorta
+952_s0484_kidney_right.nii.g_1,kidney right
+953_s0484_liver.nii.g_1,liver
+954_s0485_aorta.nii.g_1,aorta
+955_s0485_kidney_right.nii.g_1,kidney right
+956_s0485_liver.nii.g_1,liver
+957_s0486_aorta.nii.g_1,aorta
+958_s0486_kidney_right.nii.g_1,kidney right
+959_s0486_liver.nii.g_1,liver
+960_s0487_aorta.nii.g_1,aorta
+961_s0487_liver.nii.g_1,liver
+962_s0488_aorta.nii.g_1,aorta
+963_s0488_kidney_right.nii.g_1,kidney right
+964_s0488_liver.nii.g_1,liver
+965_s0490_aorta.nii.g_1,aorta
+966_s0490_kidney_right.nii.g_1,kidney right
+967_s0490_liver.nii.g_1,liver
+968_s0491_aorta.nii.g_1,aorta
+969_s0494_aorta.nii.g_1,aorta
+970_s0494_kidney_right.nii.g_1,kidney right
+971_s0494_liver.nii.g_1,liver
+972_s0495_aorta.nii.g_1,aorta
+973_s0495_kidney_right.nii.g_1,kidney right
+974_s0495_liver.nii.g_1,liver
+975_s0497_aorta.nii.g_1,aorta
+976_s0498_aorta.nii.g_1,aorta
+977_s0498_kidney_right.nii.g_1,kidney right
+978_s0498_liver.nii.g_1,liver
+979_s0499_aorta.nii.g_1,aorta
+980_s0499_kidney_right.nii.g_1,kidney right
+981_s0499_liver.nii.g_1,liver
+982_s0500_aorta.nii.g_1,aorta
+983_s0500_kidney_right.nii.g_1,kidney right
+984_s0500_liver.nii.g_1,liver
+985_s0501_aorta.nii.g_1,aorta
+986_s0502_aorta.nii.g_1,aorta
+987_s0502_kidney_right.nii.g_1,kidney right
+988_s0502_liver.nii.g_1,liver
+989_s0503_aorta.nii.g_1,aorta
+990_s0504_aorta.nii.g_1,aorta
+991_s0505_aorta.nii.g_1,aorta
+992_s0505_kidney_right.nii.g_1,kidney right
+993_s0505_liver.nii.g_1,liver
+994_s0506_aorta.nii.g_1,aorta
+995_s0507_aorta.nii.g_1,aorta
+996_s0507_kidney_right.nii.g_1,kidney right
+997_s0507_liver.nii.g_1,liver
+998_s0508_aorta.nii.g_1,aorta
+999_s0508_kidney_right.nii.g_1,kidney right
+1000_s0508_liver.nii.g_1,liver
+1001_s0509_aorta.nii.g_1,aorta
+1002_s0509_kidney_right.nii.g_1,kidney right
+1003_s0509_liver.nii.g_1,liver
+1004_s0510_aorta.nii.g_1,aorta
+1005_s0510_kidney_right.nii.g_1,kidney right
+1006_s0510_liver.nii.g_1,liver
+1007_s0511_aorta.nii.g_1,aorta
+1008_s0511_kidney_right.nii.g_1,kidney right
+1009_s0511_liver.nii.g_1,liver
+1010_s0513_aorta.nii.g_1,aorta
+1011_s0513_kidney_right.nii.g_1,kidney right
+1012_s0513_liver.nii.g_1,liver
+1013_s0515_aorta.nii.g_1,aorta
+1014_s0515_kidney_right.nii.g_1,kidney right
+1015_s0515_liver.nii.g_1,liver
+1016_s0516_aorta.nii.g_1,aorta
+1017_s0516_kidney_right.nii.g_1,kidney right
+1018_s0516_liver.nii.g_1,liver
+1019_s0517_aorta.nii.g_1,aorta
+1020_s0517_kidney_right.nii.g_1,kidney right
+1021_s0517_liver.nii.g_1,liver
+1022_s0518_aorta.nii.g_1,aorta
+1023_s0519_aorta.nii.g_1,aorta
+1024_s0519_kidney_right.nii.g_1,kidney right
+1025_s0519_liver.nii.g_1,liver
+1026_s0520_aorta.nii.g_1,aorta
+1027_s0520_kidney_right.nii.g_1,kidney right
+1028_s0520_liver.nii.g_1,liver
+1029_s0521_aorta.nii.g_1,aorta
+1030_s0522_aorta.nii.g_1,aorta
+1031_s0522_kidney_right.nii.g_1,kidney right
+1032_s0522_liver.nii.g_1,liver
+1033_s0523_aorta.nii.g_1,aorta
+1034_s0523_kidney_right.nii.g_1,kidney right
+1035_s0523_liver.nii.g_1,liver
+1036_s0525_aorta.nii.g_1,aorta
+1037_s0526_aorta.nii.g_1,aorta
+1038_s0527_aorta.nii.g_1,aorta
+1039_s0528_aorta.nii.g_1,aorta
+1040_s0528_liver.nii.g_1,liver
+1041_s0529_aorta.nii.g_1,aorta
+1042_s0529_kidney_right.nii.g_1,kidney right
+1043_s0529_liver.nii.g_1,liver
+1044_s0530_aorta.nii.g_1,aorta
+1045_s0530_liver.nii.g_1,liver
+1046_s0531_aorta.nii.g_1,aorta
+1047_s0531_kidney_right.nii.g_1,kidney right
+1048_s0531_liver.nii.g_1,liver
+1049_s0532_aorta.nii.g_1,aorta
+1050_s0532_liver.nii.g_1,liver
+1051_s0535_aorta.nii.g_1,aorta
+1052_s0536_aorta.nii.g_1,aorta
+1053_s0536_kidney_right.nii.g_1,kidney right
+1054_s0536_liver.nii.g_1,liver
+1055_s0537_aorta.nii.g_1,aorta
+1056_s0541_aorta.nii.g_1,aorta
+1057_s0541_kidney_right.nii.g_1,kidney right
+1058_s0541_liver.nii.g_1,liver
+1059_s0542_aorta.nii.g_1,aorta
+1060_s0542_kidney_right.nii.g_1,kidney right
+1061_s0542_liver.nii.g_1,liver
+1062_s0543_aorta.nii.g_1,aorta
+1063_s0543_kidney_right.nii.g_1,kidney right
+1064_s0543_liver.nii.g_1,liver
+1065_s0544_aorta.nii.g_1,aorta
+1066_s0544_liver.nii.g_1,liver
+1067_s0545_aorta.nii.g_1,aorta
+1068_s0545_kidney_right.nii.g_1,kidney right
+1069_s0545_liver.nii.g_1,liver
+1070_s0546_aorta.nii.g_1,aorta
+1071_s0546_kidney_right.nii.g_1,kidney right
+1072_s0546_liver.nii.g_1,liver
+1073_s0548_aorta.nii.g_1,aorta
+1074_s0548_kidney_right.nii.g_1,kidney right
+1075_s0548_liver.nii.g_1,liver
+1076_s0549_aorta.nii.g_1,aorta
+1077_s0549_kidney_right.nii.g_1,kidney right
+1078_s0549_liver.nii.g_1,liver
+1079_s0550_aorta.nii.g_1,aorta
+1080_s0550_kidney_right.nii.g_1,kidney right
+1081_s0550_liver.nii.g_1,liver
+1082_s0551_aorta.nii.g_1,aorta
+1083_s0551_kidney_right.nii.g_1,kidney right
+1084_s0551_liver.nii.g_1,liver
+1085_s0552_aorta.nii.g_1,aorta
+1086_s0553_aorta.nii.g_1,aorta
+1087_s0553_kidney_right.nii.g_1,kidney right
+1088_s0553_liver.nii.g_1,liver
+1089_s0555_aorta.nii.g_1,aorta
+1090_s0555_kidney_right.nii.g_1,kidney right
+1091_s0555_liver.nii.g_1,liver
+1092_s0556_aorta.nii.g_1,aorta
+1093_s0556_kidney_right.nii.g_1,kidney right
+1094_s0556_liver.nii.g_1,liver
+1095_s0557_aorta.nii.g_1,aorta
+1096_s0557_liver.nii.g_1,liver
+1097_s0559_aorta.nii.g_1,aorta
+1098_s0560_aorta.nii.g_1,aorta
+1099_s0560_kidney_right.nii.g_1,kidney right
+1100_s0560_liver.nii.g_1,liver
+1101_s0561_aorta.nii.g_1,aorta
+1102_s0561_kidney_right.nii.g_1,kidney right
+1103_s0561_liver.nii.g_1,liver
+1104_s0564_aorta.nii.g_1,aorta
+1105_s0565_aorta.nii.g_1,aorta
+1106_s0565_kidney_right.nii.g_1,kidney right
+1107_s0565_liver.nii.g_1,liver
+1108_s0566_aorta.nii.g_1,aorta
+1109_s0566_kidney_right.nii.g_1,kidney right
+1110_s0566_liver.nii.g_1,liver
+1111_s0571_aorta.nii.g_1,aorta
+1112_s0571_kidney_right.nii.g_1,kidney right
+1113_s0571_liver.nii.g_1,liver
+1114_s0573_aorta.nii.g_1,aorta
+1115_s0573_kidney_right.nii.g_1,kidney right
+1116_s0573_liver.nii.g_1,liver
+1117_s0574_aorta.nii.g_1,aorta
+1118_s0574_kidney_right.nii.g_1,kidney right
+1119_s0574_liver.nii.g_1,liver
+1120_s0576_aorta.nii.g_1,aorta
+1121_s0577_aorta.nii.g_1,aorta
+1122_s0577_kidney_right.nii.g_1,kidney right
+1123_s0577_liver.nii.g_1,liver
+1124_s0578_aorta.nii.g_1,aorta
+1125_s0578_kidney_right.nii.g_1,kidney right
+1126_s0578_liver.nii.g_1,liver
+1127_s0579_aorta.nii.g_1,aorta
+1128_s0579_kidney_right.nii.g_1,kidney right
+1129_s0579_liver.nii.g_1,liver
+1130_s0580_aorta.nii.g_1,aorta
+1131_s0580_liver.nii.g_1,liver
+1132_s0581_aorta.nii.g_1,aorta
+1133_s0581_kidney_right.nii.g_1,kidney right
+1134_s0581_liver.nii.g_1,liver
+1135_s0582_aorta.nii.g_1,aorta
+1136_s0582_liver.nii.g_1,liver
+1137_s0583_aorta.nii.g_1,aorta
+1138_s0583_kidney_right.nii.g_1,kidney right
+1139_s0583_liver.nii.g_1,liver
+1140_s0584_aorta.nii.g_1,aorta
+1141_s0584_kidney_right.nii.g_1,kidney right
+1142_s0584_liver.nii.g_1,liver
+1143_s0585_aorta.nii.g_1,aorta
+1144_s0585_kidney_right.nii.g_1,kidney right
+1145_s0585_liver.nii.g_1,liver
+1146_s0586_aorta.nii.g_1,aorta
+1147_s0586_kidney_right.nii.g_1,kidney right
+1148_s0586_liver.nii.g_1,liver
+1149_s0587_aorta.nii.g_1,aorta
+1150_s0587_kidney_right.nii.g_1,kidney right
+1151_s0587_liver.nii.g_1,liver
+1152_s0589_aorta.nii.g_1,aorta
+1153_s0589_kidney_right.nii.g_1,kidney right
+1154_s0589_liver.nii.g_1,liver
+1155_s0590_aorta.nii.g_1,aorta
+1156_s0590_kidney_right.nii.g_1,kidney right
+1157_s0590_liver.nii.g_1,liver
+1158_s0591_aorta.nii.g_1,aorta
+1159_s0591_kidney_right.nii.g_1,kidney right
+1160_s0591_liver.nii.g_1,liver
+1161_s0592_aorta.nii.g_1,aorta
+1162_s0592_kidney_right.nii.g_1,kidney right
+1163_s0592_liver.nii.g_1,liver
+1164_s0593_aorta.nii.g_1,aorta
+1165_s0593_kidney_right.nii.g_1,kidney right
+1166_s0593_liver.nii.g_1,liver
+1167_s0594_aorta.nii.g_1,aorta
+1168_s0594_liver.nii.g_1,liver
+1169_s0595_aorta.nii.g_1,aorta
+1170_s0595_liver.nii.g_1,liver
+1171_s0597_aorta.nii.g_1,aorta
+1172_s0598_aorta.nii.g_1,aorta
+1173_s0598_kidney_right.nii.g_1,kidney right
+1174_s0598_liver.nii.g_1,liver
+1175_s0600_aorta.nii.g_1,aorta
+1176_s0600_kidney_right.nii.g_1,kidney right
+1177_s0600_liver.nii.g_1,liver
+1178_s0602_aorta.nii.g_1,aorta
+1179_s0602_kidney_right.nii.g_1,kidney right
+1180_s0602_liver.nii.g_1,liver
+1181_s0603_aorta.nii.g_1,aorta
+1182_s0603_kidney_right.nii.g_1,kidney right
+1183_s0603_liver.nii.g_1,liver
+1184_s0604_aorta.nii.g_1,aorta
+1185_s0604_liver.nii.g_1,liver
+1186_s0605_aorta.nii.g_1,aorta
+1187_s0605_liver.nii.g_1,liver
+1188_s0606_aorta.nii.g_1,aorta
+1189_s0606_kidney_right.nii.g_1,kidney right
+1190_s0606_liver.nii.g_1,liver
+1191_s0607_aorta.nii.g_1,aorta
+1192_s0607_kidney_right.nii.g_1,kidney right
+1193_s0607_liver.nii.g_1,liver
+1194_s0608_aorta.nii.g_1,aorta
+1195_s0608_liver.nii.g_1,liver
+1196_s0610_aorta.nii.g_1,aorta
+1197_s0611_aorta.nii.g_1,aorta
+1198_s0612_aorta.nii.g_1,aorta
+1199_s0612_kidney_right.nii.g_1,kidney right
+1200_s0612_liver.nii.g_1,liver
+1201_s0613_aorta.nii.g_1,aorta
+1202_s0613_kidney_right.nii.g_1,kidney right
+1203_s0613_liver.nii.g_1,liver
+1204_s0615_aorta.nii.g_1,aorta
+1205_s0615_kidney_right.nii.g_1,kidney right
+1206_s0615_liver.nii.g_1,liver
+1207_s0616_aorta.nii.g_1,aorta
+1208_s0616_kidney_right.nii.g_1,kidney right
+1209_s0616_liver.nii.g_1,liver
+1210_s0617_aorta.nii.g_1,aorta
+1211_s0617_kidney_right.nii.g_1,kidney right
+1212_s0617_liver.nii.g_1,liver
+1213_s0618_aorta.nii.g_1,aorta
+1214_s0618_kidney_right.nii.g_1,kidney right
+1215_s0618_liver.nii.g_1,liver
+1216_s0619_aorta.nii.g_1,aorta
+1217_s0619_kidney_right.nii.g_1,kidney right
+1218_s0619_liver.nii.g_1,liver
+1219_s0620_aorta.nii.g_1,aorta
+1220_s0620_kidney_right.nii.g_1,kidney right
+1221_s0620_liver.nii.g_1,liver
+1222_s0621_aorta.nii.g_1,aorta
+1223_s0621_kidney_right.nii.g_1,kidney right
+1224_s0621_liver.nii.g_1,liver
+1225_s0622_aorta.nii.g_1,aorta
+1226_s0623_aorta.nii.g_1,aorta
+1227_s0623_kidney_right.nii.g_1,kidney right
+1228_s0623_liver.nii.g_1,liver
+1229_s0624_aorta.nii.g_1,aorta
+1230_s0624_kidney_right.nii.g_1,kidney right
+1231_s0624_liver.nii.g_1,liver
+1232_s0625_aorta.nii.g_1,aorta
+1233_s0625_kidney_right.nii.g_1,kidney right
+1234_s0625_liver.nii.g_1,liver
+1235_s0626_aorta.nii.g_1,aorta
+1236_s0626_kidney_right.nii.g_1,kidney right
+1237_s0626_liver.nii.g_1,liver
+1238_s0627_aorta.nii.g_1,aorta
+1239_s0628_aorta.nii.g_1,aorta
+1240_s0628_kidney_right.nii.g_1,kidney right
+1241_s0628_liver.nii.g_1,liver
+1242_s0629_aorta.nii.g_1,aorta
+1243_s0629_kidney_right.nii.g_1,kidney right
+1244_s0629_liver.nii.g_1,liver
+1245_s0632_aorta.nii.g_1,aorta
+1246_s0632_liver.nii.g_1,liver
+1247_s0635_aorta.nii.g_1,aorta
+1248_s0635_kidney_right.nii.g_1,kidney right
+1249_s0635_liver.nii.g_1,liver
+1250_s0636_aorta.nii.g_1,aorta
+1251_s0636_kidney_right.nii.g_1,kidney right
+1252_s0636_liver.nii.g_1,liver
+1253_s0637_aorta.nii.g_1,aorta
+1254_s0637_kidney_right.nii.g_1,kidney right
+1255_s0637_liver.nii.g_1,liver
+1256_s0639_aorta.nii.g_1,aorta
+1257_s0639_kidney_right.nii.g_1,kidney right
+1258_s0639_liver.nii.g_1,liver
+1259_s0641_aorta.nii.g_1,aorta
+1260_s0641_kidney_right.nii.g_1,kidney right
+1261_s0641_liver.nii.g_1,liver
+1262_s0643_aorta.nii.g_1,aorta
+1263_s0644_aorta.nii.g_1,aorta
+1264_s0644_kidney_right.nii.g_1,kidney right
+1265_s0644_liver.nii.g_1,liver
+1266_s0645_aorta.nii.g_1,aorta
+1267_s0645_liver.nii.g_1,liver
+1268_s0646_aorta.nii.g_1,aorta
+1269_s0646_liver.nii.g_1,liver
+1270_s0647_aorta.nii.g_1,aorta
+1271_s0647_kidney_right.nii.g_1,kidney right
+1272_s0647_liver.nii.g_1,liver
+1273_s0648_aorta.nii.g_1,aorta
+1274_s0648_kidney_right.nii.g_1,kidney right
+1275_s0648_liver.nii.g_1,liver
+1276_s0649_aorta.nii.g_1,aorta
+1277_s0649_kidney_right.nii.g_1,kidney right
+1278_s0649_liver.nii.g_1,liver
+1279_s0650_aorta.nii.g_1,aorta
+1280_s0650_kidney_right.nii.g_1,kidney right
+1281_s0650_liver.nii.g_1,liver
+1282_s0651_aorta.nii.g_1,aorta
+1283_s0651_kidney_right.nii.g_1,kidney right
+1284_s0651_liver.nii.g_1,liver
+1285_s0652_aorta.nii.g_1,aorta
+1286_s0652_liver.nii.g_1,liver
+1287_s0653_aorta.nii.g_1,aorta
+1288_s0654_aorta.nii.g_1,aorta
+1289_s0654_liver.nii.g_1,liver
+1290_s0655_aorta.nii.g_1,aorta
+1291_s0655_liver.nii.g_1,liver
+1292_s0656_aorta.nii.g_1,aorta
+1293_s0656_kidney_right.nii.g_1,kidney right
+1294_s0656_liver.nii.g_1,liver
+1295_s0657_aorta.nii.g_1,aorta
+1296_s0657_kidney_right.nii.g_1,kidney right
+1297_s0657_liver.nii.g_1,liver
+1298_s0658_aorta.nii.g_1,aorta
+1299_s0658_liver.nii.g_1,liver
+1300_s0659_aorta.nii.g_1,aorta
+1301_s0659_kidney_right.nii.g_1,kidney right
+1302_s0659_liver.nii.g_1,liver
+1303_s0660_aorta.nii.g_1,aorta
+1304_s0661_aorta.nii.g_1,aorta
+1305_s0661_kidney_right.nii.g_1,kidney right
+1306_s0661_liver.nii.g_1,liver
+1307_s0662_aorta.nii.g_1,aorta
+1308_s0662_kidney_right.nii.g_1,kidney right
+1309_s0662_liver.nii.g_1,liver
+1310_s0663_aorta.nii.g_1,aorta
+1311_s0663_kidney_right.nii.g_1,kidney right
+1312_s0663_liver.nii.g_1,liver
+1313_s0664_aorta.nii.g_1,aorta
+1314_s0664_kidney_right.nii.g_1,kidney right
+1315_s0664_liver.nii.g_1,liver
+1316_s0665_aorta.nii.g_1,aorta
+1317_s0665_kidney_right.nii.g_1,kidney right
+1318_s0665_liver.nii.g_1,liver
+1319_s0667_aorta.nii.g_1,aorta
+1320_s0667_kidney_right.nii.g_1,kidney right
+1321_s0667_liver.nii.g_1,liver
+1322_s0668_aorta.nii.g_1,aorta
+1323_s0668_kidney_right.nii.g_1,kidney right
+1324_s0668_liver.nii.g_1,liver
+1325_s0669_aorta.nii.g_1,aorta
+1326_s0669_kidney_right.nii.g_1,kidney right
+1327_s0669_liver.nii.g_1,liver
+1328_s0670_aorta.nii.g_1,aorta
+1329_s0670_kidney_right.nii.g_1,kidney right
+1330_s0670_liver.nii.g_1,liver
+1331_s0671_aorta.nii.g_1,aorta
+1332_s0671_liver.nii.g_1,liver
+1333_s0672_aorta.nii.g_1,aorta
+1334_s0672_liver.nii.g_1,liver
+1335_s0673_aorta.nii.g_1,aorta
+1336_s0674_aorta.nii.g_1,aorta
+1337_s0674_kidney_right.nii.g_1,kidney right
+1338_s0674_liver.nii.g_1,liver
+1339_s0675_aorta.nii.g_1,aorta
+1340_s0675_kidney_right.nii.g_1,kidney right
+1341_s0675_liver.nii.g_1,liver
+1342_s0676_aorta.nii.g_1,aorta
+1343_s0676_liver.nii.g_1,liver
+1344_s0677_aorta.nii.g_1,aorta
+1345_s0677_kidney_right.nii.g_1,kidney right
+1346_s0677_liver.nii.g_1,liver
+1347_s0679_aorta.nii.g_1,aorta
+1348_s0679_kidney_right.nii.g_1,kidney right
+1349_s0679_liver.nii.g_1,liver
+1350_s0680_aorta.nii.g_1,aorta
+1351_s0680_kidney_right.nii.g_1,kidney right
+1352_s0680_liver.nii.g_1,liver
+1353_s0681_aorta.nii.g_1,aorta
+1354_s0681_kidney_right.nii.g_1,kidney right
+1355_s0681_liver.nii.g_1,liver
+1356_s0682_aorta.nii.g_1,aorta
+1357_s0682_kidney_right.nii.g_1,kidney right
+1358_s0682_liver.nii.g_1,liver
+1359_s0683_aorta.nii.g_1,aorta
+1360_s0683_kidney_right.nii.g_1,kidney right
+1361_s0683_liver.nii.g_1,liver
+1362_s0684_aorta.nii.g_1,aorta
+1363_s0684_liver.nii.g_1,liver
+1364_s0685_aorta.nii.g_1,aorta
+1365_s0685_kidney_right.nii.g_1,kidney right
+1366_s0685_liver.nii.g_1,liver
+1367_s0686_aorta.nii.g_1,aorta
+1368_s0686_kidney_right.nii.g_1,kidney right
+1369_s0686_liver.nii.g_1,liver
+1370_s0687_aorta.nii.g_1,aorta
+1371_s0687_kidney_right.nii.g_1,kidney right
+1372_s0687_liver.nii.g_1,liver
+1373_s0688_aorta.nii.g_1,aorta
+1374_s0688_kidney_right.nii.g_1,kidney right
+1375_s0688_liver.nii.g_1,liver
+1376_s0690_aorta.nii.g_1,aorta
+1377_s0690_kidney_right.nii.g_1,kidney right
+1378_s0690_liver.nii.g_1,liver
+1379_s0691_aorta.nii.g_1,aorta
+1380_s0691_liver.nii.g_1,liver
+1381_s0692_aorta.nii.g_1,aorta
+1382_s0692_kidney_right.nii.g_1,kidney right
+1383_s0692_liver.nii.g_1,liver
+1384_s0693_aorta.nii.g_1,aorta
+1385_s0693_kidney_right.nii.g_1,kidney right
+1386_s0693_liver.nii.g_1,liver
+1387_s0694_aorta.nii.g_1,aorta
+1388_s0694_kidney_right.nii.g_1,kidney right
+1389_s0694_liver.nii.g_1,liver
+1390_s0695_aorta.nii.g_1,aorta
+1391_s0695_kidney_right.nii.g_1,kidney right
+1392_s0695_liver.nii.g_1,liver
+1393_s0696_aorta.nii.g_1,aorta
+1394_s0696_kidney_right.nii.g_1,kidney right
+1395_s0696_liver.nii.g_1,liver
+1396_s0697_aorta.nii.g_1,aorta
+1397_s0697_liver.nii.g_1,liver
+1398_s0698_aorta.nii.g_1,aorta
+1399_s0698_kidney_right.nii.g_1,kidney right
+1400_s0698_liver.nii.g_1,liver
+1401_s0699_aorta.nii.g_1,aorta
+1402_s0699_kidney_right.nii.g_1,kidney right
+1403_s0699_liver.nii.g_1,liver
+1404_s0700_aorta.nii.g_1,aorta
+1405_s0700_kidney_right.nii.g_1,kidney right
+1406_s0700_liver.nii.g_1,liver
+1407_s0702_aorta.nii.g_1,aorta
+1408_s0702_kidney_right.nii.g_1,kidney right
+1409_s0702_liver.nii.g_1,liver
+1410_s0703_aorta.nii.g_1,aorta
+1411_s0703_kidney_right.nii.g_1,kidney right
+1412_s0703_liver.nii.g_1,liver
+1413_s0704_aorta.nii.g_1,aorta
+1414_s0704_kidney_right.nii.g_1,kidney right
+1415_s0704_liver.nii.g_1,liver
+1416_s0705_aorta.nii.g_1,aorta
+1417_s0705_kidney_right.nii.g_1,kidney right
+1418_s0705_liver.nii.g_1,liver
+1419_s0707_aorta.nii.g_1,aorta
+1420_s0707_kidney_right.nii.g_1,kidney right
+1421_s0707_liver.nii.g_1,liver
+1422_s0708_aorta.nii.g_1,aorta
+1423_s0708_kidney_right.nii.g_1,kidney right
+1424_s0708_liver.nii.g_1,liver
+1425_s0709_aorta.nii.g_1,aorta
+1426_s0709_kidney_right.nii.g_1,kidney right
+1427_s0709_liver.nii.g_1,liver
+1428_s0710_aorta.nii.g_1,aorta
+1429_s0710_liver.nii.g_1,liver
+1430_s0711_aorta.nii.g_1,aorta
+1431_s0711_kidney_right.nii.g_1,kidney right
+1432_s0711_liver.nii.g_1,liver
+1433_s0712_aorta.nii.g_1,aorta
+1434_s0712_kidney_right.nii.g_1,kidney right
+1435_s0714_aorta.nii.g_1,aorta
+1436_s0714_kidney_right.nii.g_1,kidney right
+1437_s0714_liver.nii.g_1,liver
+1438_s0715_aorta.nii.g_1,aorta
+1439_s0716_aorta.nii.g_1,aorta
+1440_s0716_kidney_right.nii.g_1,kidney right
+1441_s0716_liver.nii.g_1,liver
+1442_s0717_aorta.nii.g_1,aorta
+1443_s0717_kidney_right.nii.g_1,kidney right
+1444_s0717_liver.nii.g_1,liver
+1445_s0718_aorta.nii.g_1,aorta
+1446_s0718_kidney_right.nii.g_1,kidney right
+1447_s0718_liver.nii.g_1,liver
+1448_s0719_aorta.nii.g_1,aorta
+1449_s0719_kidney_right.nii.g_1,kidney right
+1450_s0719_liver.nii.g_1,liver
+1451_s0720_aorta.nii.g_1,aorta
+1452_s0720_kidney_right.nii.g_1,kidney right
+1453_s0720_liver.nii.g_1,liver
+1454_s0721_aorta.nii.g_1,aorta
+1455_s0721_kidney_right.nii.g_1,kidney right
+1456_s0721_liver.nii.g_1,liver
+1457_s0723_aorta.nii.g_1,aorta
+1458_s0723_kidney_right.nii.g_1,kidney right
+1459_s0723_liver.nii.g_1,liver
+1460_s0724_aorta.nii.g_1,aorta
+1461_s0724_kidney_right.nii.g_1,kidney right
+1462_s0724_liver.nii.g_1,liver
+1463_s0726_aorta.nii.g_1,aorta
+1464_s0726_kidney_right.nii.g_1,kidney right
+1465_s0726_liver.nii.g_1,liver
+1466_s0727_aorta.nii.g_1,aorta
+1467_s0727_kidney_right.nii.g_1,kidney right
+1468_s0727_liver.nii.g_1,liver
+1469_s0728_aorta.nii.g_1,aorta
+1470_s0728_kidney_right.nii.g_1,kidney right
+1471_s0728_liver.nii.g_1,liver
+1472_s0729_aorta.nii.g_1,aorta
+1473_s0729_kidney_right.nii.g_1,kidney right
+1474_s0729_liver.nii.g_1,liver
+1475_s0731_aorta.nii.g_1,aorta
+1476_s0731_kidney_right.nii.g_1,kidney right
+1477_s0731_liver.nii.g_1,liver
+1478_s0732_aorta.nii.g_1,aorta
+1479_s0732_kidney_right.nii.g_1,kidney right
+1480_s0732_liver.nii.g_1,liver
+1481_s0733_aorta.nii.g_1,aorta
+1482_s0733_kidney_right.nii.g_1,kidney right
+1483_s0733_liver.nii.g_1,liver
+1484_s0734_aorta.nii.g_1,aorta
+1485_s0735_aorta.nii.g_1,aorta
+1486_s0735_kidney_right.nii.g_1,kidney right
+1487_s0735_liver.nii.g_1,liver
+1488_s0736_aorta.nii.g_1,aorta
+1489_s0736_liver.nii.g_1,liver
+1490_s0737_aorta.nii.g_1,aorta
+1491_s0737_liver.nii.g_1,liver
+1492_s0738_aorta.nii.g_1,aorta
+1493_s0738_liver.nii.g_1,liver
+1494_s0739_aorta.nii.g_1,aorta
+1495_s0739_kidney_right.nii.g_1,kidney right
+1496_s0739_liver.nii.g_1,liver
+1497_s0740_aorta.nii.g_1,aorta
+1498_s0740_kidney_right.nii.g_1,kidney right
+1499_s0740_liver.nii.g_1,liver
+1500_s0741_aorta.nii.g_1,aorta
+1501_s0743_aorta.nii.g_1,aorta
+1502_s0743_kidney_right.nii.g_1,kidney right
+1503_s0743_liver.nii.g_1,liver
+1504_s0746_aorta.nii.g_1,aorta
+1505_s0746_kidney_right.nii.g_1,kidney right
+1506_s0746_liver.nii.g_1,liver
+1507_s0747_aorta.nii.g_1,aorta
+1508_s0747_kidney_right.nii.g_1,kidney right
+1509_s0747_liver.nii.g_1,liver
+1510_s0749_aorta.nii.g_1,aorta
+1511_s0749_kidney_right.nii.g_1,kidney right
+1512_s0749_liver.nii.g_1,liver
+1513_s0750_aorta.nii.g_1,aorta
+1514_s0750_kidney_right.nii.g_1,kidney right
+1515_s0750_liver.nii.g_1,liver
+1516_s0751_aorta.nii.g_1,aorta
+1517_s0751_kidney_right.nii.g_1,kidney right
+1518_s0751_liver.nii.g_1,liver
+1519_s0752_aorta.nii.g_1,aorta
+1520_s0752_kidney_right.nii.g_1,kidney right
+1521_s0752_liver.nii.g_1,liver
+1522_s0753_aorta.nii.g_1,aorta
+1523_s0753_kidney_right.nii.g_1,kidney right
+1524_s0753_liver.nii.g_1,liver
+1525_s0754_aorta.nii.g_1,aorta
+1526_s0754_kidney_right.nii.g_1,kidney right
+1527_s0754_liver.nii.g_1,liver
+1528_s0756_aorta.nii.g_1,aorta
+1529_s0759_aorta.nii.g_1,aorta
+1530_s0759_kidney_right.nii.g_1,kidney right
+1531_s0759_liver.nii.g_1,liver
+1532_s0760_aorta.nii.g_1,aorta
+1533_s0760_kidney_right.nii.g_1,kidney right
+1534_s0760_liver.nii.g_1,liver
+1535_s0762_aorta.nii.g_1,aorta
+1536_s0762_kidney_right.nii.g_1,kidney right
+1537_s0762_liver.nii.g_1,liver
+1538_s0763_aorta.nii.g_1,aorta
+1539_s0763_kidney_right.nii.g_1,kidney right
+1540_s0763_liver.nii.g_1,liver
+1541_s0764_aorta.nii.g_1,aorta
+1542_s0764_kidney_right.nii.g_1,kidney right
+1543_s0764_liver.nii.g_1,liver
+1544_s0765_aorta.nii.g_1,aorta
+1545_s0765_kidney_right.nii.g_1,kidney right
+1546_s0765_liver.nii.g_1,liver
+1547_s0767_aorta.nii.g_1,aorta
+1548_s0767_liver.nii.g_1,liver
+1549_s0768_aorta.nii.g_1,aorta
+1550_s0768_kidney_right.nii.g_1,kidney right
+1551_s0768_liver.nii.g_1,liver
+1552_s0769_aorta.nii.g_1,aorta
+1553_s0770_aorta.nii.g_1,aorta
+1554_s0770_kidney_right.nii.g_1,kidney right
+1555_s0770_liver.nii.g_1,liver
+1556_s0771_aorta.nii.g_1,aorta
+1557_s0771_kidney_right.nii.g_1,kidney right
+1558_s0771_liver.nii.g_1,liver
+1559_s0773_aorta.nii.g_1,aorta
+1560_s0773_kidney_right.nii.g_1,kidney right
+1561_s0773_liver.nii.g_1,liver
+1562_s0774_aorta.nii.g_1,aorta
+1563_s0774_kidney_right.nii.g_1,kidney right
+1564_s0774_liver.nii.g_1,liver
+1565_s0775_aorta.nii.g_1,aorta
+1566_s0775_kidney_right.nii.g_1,kidney right
+1567_s0775_liver.nii.g_1,liver
+1568_s0776_aorta.nii.g_1,aorta
+1569_s0776_kidney_right.nii.g_1,kidney right
+1570_s0777_aorta.nii.g_1,aorta
+1571_s0777_kidney_right.nii.g_1,kidney right
+1572_s0777_liver.nii.g_1,liver
+1573_s0778_aorta.nii.g_1,aorta
+1574_s0778_kidney_right.nii.g_1,kidney right
+1575_s0778_liver.nii.g_1,liver
+1576_s0780_aorta.nii.g_1,aorta
+1577_s0780_liver.nii.g_1,liver
+1578_s0781_aorta.nii.g_1,aorta
+1579_s0781_liver.nii.g_1,liver
+1580_s0782_aorta.nii.g_1,aorta
+1581_s0782_liver.nii.g_1,liver
+1582_s0784_aorta.nii.g_1,aorta
+1583_s0784_kidney_right.nii.g_1,kidney right
+1584_s0784_liver.nii.g_1,liver
+1585_s0785_aorta.nii.g_1,aorta
+1586_s0785_kidney_right.nii.g_1,kidney right
+1587_s0785_liver.nii.g_1,liver
+1588_s0787_aorta.nii.g_1,aorta
+1589_s0787_liver.nii.g_1,liver
+1590_s0788_aorta.nii.g_1,aorta
+1591_s0788_kidney_right.nii.g_1,kidney right
+1592_s0788_liver.nii.g_1,liver
+1593_s0789_aorta.nii.g_1,aorta
+1594_s0789_kidney_right.nii.g_1,kidney right
+1595_s0789_liver.nii.g_1,liver
+1596_s0790_aorta.nii.g_1,aorta
+1597_s0790_kidney_right.nii.g_1,kidney right
+1598_s0790_liver.nii.g_1,liver
+1599_s0791_aorta.nii.g_1,aorta
+1600_s0791_liver.nii.g_1,liver
+1601_s0793_aorta.nii.g_1,aorta
+1602_s0793_liver.nii.g_1,liver
+1603_s0794_aorta.nii.g_1,aorta
+1604_s0794_kidney_right.nii.g_1,kidney right
+1605_s0794_liver.nii.g_1,liver
+1606_s0795_aorta.nii.g_1,aorta
+1607_s0795_kidney_right.nii.g_1,kidney right
+1608_s0795_liver.nii.g_1,liver
+1609_s0796_aorta.nii.g_1,aorta
+1610_s0796_kidney_right.nii.g_1,kidney right
+1611_s0796_liver.nii.g_1,liver
+1612_s0797_aorta.nii.g_1,aorta
+1613_s0797_kidney_right.nii.g_1,kidney right
+1614_s0797_liver.nii.g_1,liver
+1615_s0798_aorta.nii.g_1,aorta
+1616_s0798_kidney_right.nii.g_1,kidney right
+1617_s0798_liver.nii.g_1,liver
+1618_s0800_aorta.nii.g_1,aorta
+1619_s0801_aorta.nii.g_1,aorta
+1620_s0801_kidney_right.nii.g_1,kidney right
+1621_s0801_liver.nii.g_1,liver
+1622_s0802_aorta.nii.g_1,aorta
+1623_s0802_liver.nii.g_1,liver
+1624_s0804_aorta.nii.g_1,aorta
+1625_s0804_kidney_right.nii.g_1,kidney right
+1626_s0804_liver.nii.g_1,liver
+1627_s0805_aorta.nii.g_1,aorta
+1628_s0805_kidney_right.nii.g_1,kidney right
+1629_s0805_liver.nii.g_1,liver
+1630_s0806_aorta.nii.g_1,aorta
+1631_s0806_kidney_right.nii.g_1,kidney right
+1632_s0806_liver.nii.g_1,liver
+1633_s0807_aorta.nii.g_1,aorta
+1634_s0807_kidney_right.nii.g_1,kidney right
+1635_s0807_liver.nii.g_1,liver
+1636_s0808_aorta.nii.g_1,aorta
+1637_s0808_kidney_right.nii.g_1,kidney right
+1638_s0808_liver.nii.g_1,liver
+1639_s0809_aorta.nii.g_1,aorta
+1640_s0810_aorta.nii.g_1,aorta
+1641_s0810_liver.nii.g_1,liver
+1642_s0811_aorta.nii.g_1,aorta
+1643_s0811_kidney_right.nii.g_1,kidney right
+1644_s0811_liver.nii.g_1,liver
+1645_s0812_aorta.nii.g_1,aorta
+1646_s0812_kidney_right.nii.g_1,kidney right
+1647_s0812_liver.nii.g_1,liver
+1648_s0813_aorta.nii.g_1,aorta
+1649_s0813_liver.nii.g_1,liver
+1650_s0814_aorta.nii.g_1,aorta
+1651_s0815_aorta.nii.g_1,aorta
+1652_s0816_aorta.nii.g_1,aorta
+1653_s0816_kidney_right.nii.g_1,kidney right
+1654_s0816_liver.nii.g_1,liver
+1655_s0819_aorta.nii.g_1,aorta
+1656_s0820_aorta.nii.g_1,aorta
+1657_s0821_aorta.nii.g_1,aorta
+1658_s0821_kidney_right.nii.g_1,kidney right
+1659_s0821_liver.nii.g_1,liver
+1660_s0822_aorta.nii.g_1,aorta
+1661_s0822_kidney_right.nii.g_1,kidney right
+1662_s0822_liver.nii.g_1,liver
+1663_s0824_aorta.nii.g_1,aorta
+1664_s0824_liver.nii.g_1,liver
+1665_s0825_aorta.nii.g_1,aorta
+1666_s0825_liver.nii.g_1,liver
+1667_s0826_aorta.nii.g_1,aorta
+1668_s0826_liver.nii.g_1,liver
+1669_s0829_aorta.nii.g_1,aorta
+1670_s0829_kidney_right.nii.g_1,kidney right
+1671_s0829_liver.nii.g_1,liver
+1672_s0830_aorta.nii.g_1,aorta
+1673_s0830_kidney_right.nii.g_1,kidney right
+1674_s0830_liver.nii.g_1,liver
+1675_s0831_aorta.nii.g_1,aorta
+1676_s0831_kidney_right.nii.g_1,kidney right
+1677_s0831_liver.nii.g_1,liver
+1678_s0832_aorta.nii.g_1,aorta
+1679_s0832_liver.nii.g_1,liver
+1680_s0833_aorta.nii.g_1,aorta
+1681_s0833_liver.nii.g_1,liver
+1682_s0834_aorta.nii.g_1,aorta
+1683_s0834_liver.nii.g_1,liver
+1684_s0835_aorta.nii.g_1,aorta
+1685_s0835_kidney_right.nii.g_1,kidney right
+1686_s0835_liver.nii.g_1,liver
+1687_s0836_aorta.nii.g_1,aorta
+1688_s0836_kidney_right.nii.g_1,kidney right
+1689_s0836_liver.nii.g_1,liver
+1690_s0838_aorta.nii.g_1,aorta
+1691_s0838_liver.nii.g_1,liver
+1692_s0839_aorta.nii.g_1,aorta
+1693_s0839_liver.nii.g_1,liver
+1694_s0840_aorta.nii.g_1,aorta
+1695_s0840_liver.nii.g_1,liver
+1696_s0842_aorta.nii.g_1,aorta
+1697_s0842_kidney_right.nii.g_1,kidney right
+1698_s0842_liver.nii.g_1,liver
+1699_s0844_aorta.nii.g_1,aorta
+1700_s0844_kidney_right.nii.g_1,kidney right
+1701_s0844_liver.nii.g_1,liver
+1702_s0845_aorta.nii.g_1,aorta
+1703_s0845_kidney_right.nii.g_1,kidney right
+1704_s0845_liver.nii.g_1,liver
+1705_s0846_aorta.nii.g_1,aorta
+1706_s0846_liver.nii.g_1,liver
+1707_s0847_aorta.nii.g_1,aorta
+1708_s0847_kidney_right.nii.g_1,kidney right
+1709_s0847_liver.nii.g_1,liver
+1710_s0848_aorta.nii.g_1,aorta
+1711_s0848_liver.nii.g_1,liver
+1712_s0849_aorta.nii.g_1,aorta
+1713_s0851_aorta.nii.g_1,aorta
+1714_s0852_aorta.nii.g_1,aorta
+1715_s0852_liver.nii.g_1,liver
+1716_s0853_aorta.nii.g_1,aorta
+1717_s0857_aorta.nii.g_1,aorta
+1718_s0858_aorta.nii.g_1,aorta
+1719_s0858_liver.nii.g_1,liver
+1720_s0859_aorta.nii.g_1,aorta
+1721_s0859_kidney_right.nii.g_1,kidney right
+1722_s0859_liver.nii.g_1,liver
+1723_s0860_aorta.nii.g_1,aorta
+1724_s0860_kidney_right.nii.g_1,kidney right
+1725_s0860_liver.nii.g_1,liver
+1726_s0862_aorta.nii.g_1,aorta
+1727_s0863_aorta.nii.g_1,aorta
+1728_s0863_kidney_right.nii.g_1,kidney right
+1729_s0863_liver.nii.g_1,liver
+1730_s0864_aorta.nii.g_1,aorta
+1731_s0864_kidney_right.nii.g_1,kidney right
+1732_s0864_liver.nii.g_1,liver
+1733_s0865_aorta.nii.g_1,aorta
+1734_s0866_aorta.nii.g_1,aorta
+1735_s0866_kidney_right.nii.g_1,kidney right
+1736_s0866_liver.nii.g_1,liver
+1737_s0868_aorta.nii.g_1,aorta
+1738_s0869_aorta.nii.g_1,aorta
+1739_s0869_kidney_right.nii.g_1,kidney right
+1740_s0869_liver.nii.g_1,liver
+1741_s0871_aorta.nii.g_1,aorta
+1742_s0871_kidney_right.nii.g_1,kidney right
+1743_s0871_liver.nii.g_1,liver
+1744_s0873_aorta.nii.g_1,aorta
+1745_s0874_aorta.nii.g_1,aorta
+1746_s0876_aorta.nii.g_1,aorta
+1747_s0876_liver.nii.g_1,liver
+1748_s0877_aorta.nii.g_1,aorta
+1749_s0877_liver.nii.g_1,liver
+1750_s0878_aorta.nii.g_1,aorta
+1751_s0878_kidney_right.nii.g_1,kidney right
+1752_s0878_liver.nii.g_1,liver
+1753_s0879_aorta.nii.g_1,aorta
+1754_s0879_liver.nii.g_1,liver
+1755_s0880_aorta.nii.g_1,aorta
+1756_s0880_kidney_right.nii.g_1,kidney right
+1757_s0880_liver.nii.g_1,liver
+1758_s0881_aorta.nii.g_1,aorta
+1759_s0881_liver.nii.g_1,liver
+1760_s0883_aorta.nii.g_1,aorta
+1761_s0883_liver.nii.g_1,liver
+1762_s0884_aorta.nii.g_1,aorta
+1763_s0884_kidney_right.nii.g_1,kidney right
+1764_s0884_liver.nii.g_1,liver
+1765_s0885_aorta.nii.g_1,aorta
+1766_s0885_kidney_right.nii.g_1,kidney right
+1767_s0885_liver.nii.g_1,liver
+1768_s0889_aorta.nii.g_1,aorta
+1769_s0889_kidney_right.nii.g_1,kidney right
+1770_s0889_liver.nii.g_1,liver
+1771_s0890_aorta.nii.g_1,aorta
+1772_s0890_kidney_right.nii.g_1,kidney right
+1773_s0890_liver.nii.g_1,liver
+1774_s0891_aorta.nii.g_1,aorta
+1775_s0891_liver.nii.g_1,liver
+1776_s0892_aorta.nii.g_1,aorta
+1777_s0892_kidney_right.nii.g_1,kidney right
+1778_s0892_liver.nii.g_1,liver
+1779_s0894_aorta.nii.g_1,aorta
+1780_s0894_kidney_right.nii.g_1,kidney right
+1781_s0894_liver.nii.g_1,liver
+1782_s0895_aorta.nii.g_1,aorta
+1783_s0895_kidney_right.nii.g_1,kidney right
+1784_s0895_liver.nii.g_1,liver
+1785_s0896_aorta.nii.g_1,aorta
+1786_s0896_kidney_right.nii.g_1,kidney right
+1787_s0896_liver.nii.g_1,liver
+1788_s0897_aorta.nii.g_1,aorta
+1789_s0897_kidney_right.nii.g_1,kidney right
+1790_s0897_liver.nii.g_1,liver
+1791_s0898_aorta.nii.g_1,aorta
+1792_s0898_kidney_right.nii.g_1,kidney right
+1793_s0898_liver.nii.g_1,liver
+1794_s0899_aorta.nii.g_1,aorta
+1795_s0899_kidney_right.nii.g_1,kidney right
+1796_s0899_liver.nii.g_1,liver
+1797_s0901_aorta.nii.g_1,aorta
+1798_s0901_liver.nii.g_1,liver
+1799_s0903_aorta.nii.g_1,aorta
+1800_s0903_kidney_right.nii.g_1,kidney right
+1801_s0903_liver.nii.g_1,liver
+1802_s0904_aorta.nii.g_1,aorta
+1803_s0904_kidney_right.nii.g_1,kidney right
+1804_s0904_liver.nii.g_1,liver
+1805_s0907_aorta.nii.g_1,aorta
+1806_s0907_kidney_right.nii.g_1,kidney right
+1807_s0907_liver.nii.g_1,liver
+1808_s0908_aorta.nii.g_1,aorta
+1809_s0908_kidney_right.nii.g_1,kidney right
+1810_s0908_liver.nii.g_1,liver
+1811_s0909_aorta.nii.g_1,aorta
+1812_s0910_aorta.nii.g_1,aorta
+1813_s0910_liver.nii.g_1,liver
+1814_s0911_aorta.nii.g_1,aorta
+1815_s0911_liver.nii.g_1,liver
+1816_s0912_aorta.nii.g_1,aorta
+1817_s0912_kidney_right.nii.g_1,kidney right
+1818_s0912_liver.nii.g_1,liver
+1819_s0913_aorta.nii.g_1,aorta
+1820_s0913_kidney_right.nii.g_1,kidney right
+1821_s0913_liver.nii.g_1,liver
+1822_s0914_aorta.nii.g_1,aorta
+1823_s0914_kidney_right.nii.g_1,kidney right
+1824_s0914_liver.nii.g_1,liver
+1825_s0915_aorta.nii.g_1,aorta
+1826_s0915_kidney_right.nii.g_1,kidney right
+1827_s0915_liver.nii.g_1,liver
+1828_s0916_aorta.nii.g_1,aorta
+1829_s0916_kidney_right.nii.g_1,kidney right
+1830_s0916_liver.nii.g_1,liver
+1831_s0918_aorta.nii.g_1,aorta
+1832_s0918_kidney_right.nii.g_1,kidney right
+1833_s0918_liver.nii.g_1,liver
+1834_s0919_aorta.nii.g_1,aorta
+1835_s0919_kidney_right.nii.g_1,kidney right
+1836_s0919_liver.nii.g_1,liver
+1837_s0923_aorta.nii.g_1,aorta
+1838_s0923_kidney_right.nii.g_1,kidney right
+1839_s0923_liver.nii.g_1,liver
+1840_s0924_aorta.nii.g_1,aorta
+1841_s0924_kidney_right.nii.g_1,kidney right
+1842_s0924_liver.nii.g_1,liver
+1843_s0925_aorta.nii.g_1,aorta
+1844_s0927_aorta.nii.g_1,aorta
+1845_s0927_kidney_right.nii.g_1,kidney right
+1846_s0927_liver.nii.g_1,liver
+1847_s0928_aorta.nii.g_1,aorta
+1848_s0928_kidney_right.nii.g_1,kidney right
+1849_s0928_liver.nii.g_1,liver
+1850_s0930_aorta.nii.g_1,aorta
+1851_s0930_kidney_right.nii.g_1,kidney right
+1852_s0930_liver.nii.g_1,liver
+1853_s0931_aorta.nii.g_1,aorta
+1854_s0931_kidney_right.nii.g_1,kidney right
+1855_s0931_liver.nii.g_1,liver
+1856_s0933_aorta.nii.g_1,aorta
+1857_s0933_kidney_right.nii.g_1,kidney right
+1858_s0933_liver.nii.g_1,liver
+1859_s0934_aorta.nii.g_1,aorta
+1860_s0934_kidney_right.nii.g_1,kidney right
+1861_s0934_liver.nii.g_1,liver
+1862_s0935_aorta.nii.g_1,aorta
+1863_s0935_liver.nii.g_1,liver
+1864_s0936_aorta.nii.g_1,aorta
+1865_s0936_liver.nii.g_1,liver
+1866_s0937_aorta.nii.g_1,aorta
+1867_s0937_kidney_right.nii.g_1,kidney right
+1868_s0937_liver.nii.g_1,liver
+1869_s0939_aorta.nii.g_1,aorta
+1870_s0939_kidney_right.nii.g_1,kidney right
+1871_s0939_liver.nii.g_1,liver
+1872_s0940_aorta.nii.g_1,aorta
+1873_s0940_kidney_right.nii.g_1,kidney right
+1874_s0940_liver.nii.g_1,liver
+1875_s0941_aorta.nii.g_1,aorta
+1876_s0941_kidney_right.nii.g_1,kidney right
+1877_s0941_liver.nii.g_1,liver
+1878_s0944_aorta.nii.g_1,aorta
+1879_s0945_aorta.nii.g_1,aorta
+1880_s0945_kidney_right.nii.g_1,kidney right
+1881_s0945_liver.nii.g_1,liver
+1882_s0946_aorta.nii.g_1,aorta
+1883_s0946_kidney_right.nii.g_1,kidney right
+1884_s0946_liver.nii.g_1,liver
+1885_s0949_aorta.nii.g_1,aorta
+1886_s0950_aorta.nii.g_1,aorta
+1887_s0950_kidney_right.nii.g_1,kidney right
+1888_s0950_liver.nii.g_1,liver
+1889_s0951_aorta.nii.g_1,aorta
+1890_s0951_kidney_right.nii.g_1,kidney right
+1891_s0951_liver.nii.g_1,liver
+1892_s0952_aorta.nii.g_1,aorta
+1893_s0952_kidney_right.nii.g_1,kidney right
+1894_s0952_liver.nii.g_1,liver
+1895_s0954_aorta.nii.g_1,aorta
+1896_s0954_kidney_right.nii.g_1,kidney right
+1897_s0954_liver.nii.g_1,liver
+1898_s0956_aorta.nii.g_1,aorta
+1899_s0956_liver.nii.g_1,liver
+1900_s0957_aorta.nii.g_1,aorta
+1901_s0957_kidney_right.nii.g_1,kidney right
+1902_s0957_liver.nii.g_1,liver
+1903_s0958_aorta.nii.g_1,aorta
+1904_s0958_kidney_right.nii.g_1,kidney right
+1905_s0958_liver.nii.g_1,liver
+1906_s0959_aorta.nii.g_1,aorta
+1907_s0959_kidney_right.nii.g_1,kidney right
+1908_s0959_liver.nii.g_1,liver
+1909_s0960_aorta.nii.g_1,aorta
+1910_s0961_aorta.nii.g_1,aorta
+1911_s0961_kidney_right.nii.g_1,kidney right
+1912_s0961_liver.nii.g_1,liver
+1913_s0962_aorta.nii.g_1,aorta
+1914_s0963_aorta.nii.g_1,aorta
+1915_s0963_kidney_right.nii.g_1,kidney right
+1916_s0963_liver.nii.g_1,liver
+1917_s0965_aorta.nii.g_1,aorta
+1918_s0965_kidney_right.nii.g_1,kidney right
+1919_s0965_liver.nii.g_1,liver
+1920_s0968_aorta.nii.g_1,aorta
+1921_s0970_aorta.nii.g_1,aorta
+1922_s0970_kidney_right.nii.g_1,kidney right
+1923_s0970_liver.nii.g_1,liver
+1924_s0971_aorta.nii.g_1,aorta
+1925_s0971_kidney_right.nii.g_1,kidney right
+1926_s0972_aorta.nii.g_1,aorta
+1927_s0972_liver.nii.g_1,liver
+1928_s0973_aorta.nii.g_1,aorta
+1929_s0973_liver.nii.g_1,liver
+1930_s0974_aorta.nii.g_1,aorta
+1931_s0975_aorta.nii.g_1,aorta
+1932_s0975_kidney_right.nii.g_1,kidney right
+1933_s0975_liver.nii.g_1,liver
+1934_s0976_aorta.nii.g_1,aorta
+1935_s0976_kidney_right.nii.g_1,kidney right
+1936_s0976_liver.nii.g_1,liver
+1937_s0977_aorta.nii.g_1,aorta
+1938_s0977_liver.nii.g_1,liver
+1939_s0978_aorta.nii.g_1,aorta
+1940_s0978_kidney_right.nii.g_1,kidney right
+1941_s0978_liver.nii.g_1,liver
+1942_s0979_aorta.nii.g_1,aorta
+1943_s0979_kidney_right.nii.g_1,kidney right
+1944_s0979_liver.nii.g_1,liver
+1945_s0980_aorta.nii.g_1,aorta
+1946_s0980_liver.nii.g_1,liver
+1947_s0981_aorta.nii.g_1,aorta
+1948_s0981_liver.nii.g_1,liver
+1949_s0982_aorta.nii.g_1,aorta
+1950_s0982_kidney_right.nii.g_1,kidney right
+1951_s0982_liver.nii.g_1,liver
+1952_s0983_aorta.nii.g_1,aorta
+1953_s0983_kidney_right.nii.g_1,kidney right
+1954_s0983_liver.nii.g_1,liver
+1955_s0985_aorta.nii.g_1,aorta
+1956_s0985_kidney_right.nii.g_1,kidney right
+1957_s0985_liver.nii.g_1,liver
+1958_s0986_aorta.nii.g_1,aorta
+1959_s0986_kidney_right.nii.g_1,kidney right
+1960_s0986_liver.nii.g_1,liver
+1961_s0987_aorta.nii.g_1,aorta
+1962_s0987_liver.nii.g_1,liver
+1963_s0988_aorta.nii.g_1,aorta
+1964_s0988_kidney_right.nii.g_1,kidney right
+1965_s0988_liver.nii.g_1,liver
+1966_s0989_aorta.nii.g_1,aorta
+1967_s0989_liver.nii.g_1,liver
+1968_s0991_aorta.nii.g_1,aorta
+1969_s0991_kidney_right.nii.g_1,kidney right
+1970_s0991_liver.nii.g_1,liver
+1971_s0992_aorta.nii.g_1,aorta
+1972_s0992_kidney_right.nii.g_1,kidney right
+1973_s0992_liver.nii.g_1,liver
+1974_s0994_aorta.nii.g_1,aorta
+1975_s0994_kidney_right.nii.g_1,kidney right
+1976_s0994_liver.nii.g_1,liver
+1977_s0995_aorta.nii.g_1,aorta
+1978_s0995_liver.nii.g_1,liver
+1979_s0996_aorta.nii.g_1,aorta
+1980_s0996_liver.nii.g_1,liver
+1981_s0999_aorta.nii.g_1,aorta
+1982_s0999_liver.nii.g_1,liver
+1983_s1001_aorta.nii.g_1,aorta
+1984_s1002_aorta.nii.g_1,aorta
+1985_s1002_liver.nii.g_1,liver
+1986_s1003_aorta.nii.g_1,aorta
+1987_s1004_aorta.nii.g_1,aorta
+1988_s1004_liver.nii.g_1,liver
+1989_s1005_aorta.nii.g_1,aorta
+1990_s1006_aorta.nii.g_1,aorta
+1991_s1006_kidney_right.nii.g_1,kidney right
+1992_s1006_liver.nii.g_1,liver
+1993_s1007_aorta.nii.g_1,aorta
+1994_s1007_kidney_right.nii.g_1,kidney right
+1995_s1007_liver.nii.g_1,liver
+1996_s1008_aorta.nii.g_1,aorta
+1997_s1008_kidney_right.nii.g_1,kidney right
+1998_s1008_liver.nii.g_1,liver
+1999_s1009_aorta.nii.g_1,aorta
+2000_s1009_kidney_right.nii.g_1,kidney right
+2001_s1010_aorta.nii.g_1,aorta
+2002_s1011_aorta.nii.g_1,aorta
+2003_s1012_aorta.nii.g_1,aorta
+2004_s1012_kidney_right.nii.g_1,kidney right
+2005_s1012_liver.nii.g_1,liver
+2006_s1013_aorta.nii.g_1,aorta
+2007_s1013_kidney_right.nii.g_1,kidney right
+2008_s1013_liver.nii.g_1,liver
+2009_s1015_aorta.nii.g_1,aorta
+2010_s1016_aorta.nii.g_1,aorta
+2011_s1016_kidney_right.nii.g_1,kidney right
+2012_s1016_liver.nii.g_1,liver
+2013_s1017_aorta.nii.g_1,aorta
+2014_s1017_kidney_right.nii.g_1,kidney right
+2015_s1017_liver.nii.g_1,liver
+2016_s1018_aorta.nii.g_1,aorta
+2017_s1018_kidney_right.nii.g_1,kidney right
+2018_s1018_liver.nii.g_1,liver
+2019_s1021_aorta.nii.g_1,aorta
+2020_s1021_liver.nii.g_1,liver
+2021_s1022_aorta.nii.g_1,aorta
+2022_s1022_kidney_right.nii.g_1,kidney right
+2023_s1022_liver.nii.g_1,liver
+2024_s1023_aorta.nii.g_1,aorta
+2025_s1023_kidney_right.nii.g_1,kidney right
+2026_s1023_liver.nii.g_1,liver
+2027_s1024_aorta.nii.g_1,aorta
+2028_s1024_kidney_right.nii.g_1,kidney right
+2029_s1024_liver.nii.g_1,liver
+2030_s1025_aorta.nii.g_1,aorta
+2031_s1025_liver.nii.g_1,liver
+2032_s1026_aorta.nii.g_1,aorta
+2033_s1026_liver.nii.g_1,liver
+2034_s1028_aorta.nii.g_1,aorta
+2035_s1028_kidney_right.nii.g_1,kidney right
+2036_s1028_liver.nii.g_1,liver
+2037_s1029_aorta.nii.g_1,aorta
+2038_s1029_kidney_right.nii.g_1,kidney right
+2039_s1029_liver.nii.g_1,liver
+2040_s1031_aorta.nii.g_1,aorta
+2041_s1031_kidney_right.nii.g_1,kidney right
+2042_s1031_liver.nii.g_1,liver
+2043_s1032_aorta.nii.g_1,aorta
+2044_s1033_aorta.nii.g_1,aorta
+2045_s1033_liver.nii.g_1,liver
+2046_s1034_aorta.nii.g_1,aorta
+2047_s1035_aorta.nii.g_1,aorta
+2048_s1035_kidney_right.nii.g_1,kidney right
+2049_s1035_liver.nii.g_1,liver
+2050_s1036_aorta.nii.g_1,aorta
+2051_s1037_aorta.nii.g_1,aorta
+2052_s1037_kidney_right.nii.g_1,kidney right
+2053_s1037_liver.nii.g_1,liver
+2054_s1038_aorta.nii.g_1,aorta
+2055_s1038_kidney_right.nii.g_1,kidney right
+2056_s1038_liver.nii.g_1,liver
+2057_s1039_aorta.nii.g_1,aorta
+2058_s1039_liver.nii.g_1,liver
+2059_s1040_aorta.nii.g_1,aorta
+2060_s1041_aorta.nii.g_1,aorta
+2061_s1041_kidney_right.nii.g_1,kidney right
+2062_s1041_liver.nii.g_1,liver
+2063_s1042_aorta.nii.g_1,aorta
+2064_s1042_kidney_right.nii.g_1,kidney right
+2065_s1042_liver.nii.g_1,liver
+2066_s1043_aorta.nii.g_1,aorta
+2067_s1044_aorta.nii.g_1,aorta
+2068_s1044_kidney_right.nii.g_1,kidney right
+2069_s1044_liver.nii.g_1,liver
+2070_s1045_aorta.nii.g_1,aorta
+2071_s1045_kidney_right.nii.g_1,kidney right
+2072_s1045_liver.nii.g_1,liver
+2073_s1046_aorta.nii.g_1,aorta
+2074_s1046_kidney_right.nii.g_1,kidney right
+2075_s1046_liver.nii.g_1,liver
+2076_s1048_aorta.nii.g_1,aorta
+2077_s1048_kidney_right.nii.g_1,kidney right
+2078_s1048_liver.nii.g_1,liver
+2079_s1049_aorta.nii.g_1,aorta
+2080_s1049_liver.nii.g_1,liver
+2081_s1050_aorta.nii.g_1,aorta
+2082_s1050_liver.nii.g_1,liver
+2083_s1052_aorta.nii.g_1,aorta
+2084_s1052_kidney_right.nii.g_1,kidney right
+2085_s1052_liver.nii.g_1,liver
+2086_s1057_kidney_right.nii.g_1,kidney right
+2087_s1058_aorta.nii.g_1,aorta
+2088_s1058_kidney_right.nii.g_1,kidney right
+2089_s1058_liver.nii.g_1,liver
+2090_s1059_aorta.nii.g_1,aorta
+2091_s1060_aorta.nii.g_1,aorta
+2092_s1060_kidney_right.nii.g_1,kidney right
+2093_s1060_liver.nii.g_1,liver
+2094_s1061_aorta.nii.g_1,aorta
+2095_s1061_kidney_right.nii.g_1,kidney right
+2096_s1061_liver.nii.g_1,liver
+2097_s1062_aorta.nii.g_1,aorta
+2098_s1062_kidney_right.nii.g_1,kidney right
+2099_s1062_liver.nii.g_1,liver
+2100_s1063_aorta.nii.g_1,aorta
+2101_s1063_kidney_right.nii.g_1,kidney right
+2102_s1063_liver.nii.g_1,liver
+2103_s1066_aorta.nii.g_1,aorta
+2104_s1066_kidney_right.nii.g_1,kidney right
+2105_s1066_liver.nii.g_1,liver
+2106_s1067_aorta.nii.g_1,aorta
+2107_s1067_kidney_right.nii.g_1,kidney right
+2108_s1067_liver.nii.g_1,liver
+2109_s1069_aorta.nii.g_1,aorta
+2110_s1069_kidney_right.nii.g_1,kidney right
+2111_s1069_liver.nii.g_1,liver
+2112_s1070_aorta.nii.g_1,aorta
+2113_s1070_kidney_right.nii.g_1,kidney right
+2114_s1070_liver.nii.g_1,liver
+2115_s1073_aorta.nii.g_1,aorta
+2116_s1073_kidney_right.nii.g_1,kidney right
+2117_s1073_liver.nii.g_1,liver
+2118_s1075_aorta.nii.g_1,aorta
+2119_s1077_aorta.nii.g_1,aorta
+2120_s1077_kidney_right.nii.g_1,kidney right
+2121_s1077_liver.nii.g_1,liver
+2122_s1079_aorta.nii.g_1,aorta
+2123_s1079_liver.nii.g_1,liver
+2124_s1082_aorta.nii.g_1,aorta
+2125_s1082_kidney_right.nii.g_1,kidney right
+2126_s1082_liver.nii.g_1,liver
+2127_s1083_aorta.nii.g_1,aorta
+2128_s1083_kidney_right.nii.g_1,kidney right
+2129_s1083_liver.nii.g_1,liver
+2130_s1084_aorta.nii.g_1,aorta
+2131_s1084_liver.nii.g_1,liver
+2132_s1085_aorta.nii.g_1,aorta
+2133_s1085_kidney_right.nii.g_1,kidney right
+2134_s1085_liver.nii.g_1,liver
+2135_s1086_aorta.nii.g_1,aorta
+2136_s1086_kidney_right.nii.g_1,kidney right
+2137_s1086_liver.nii.g_1,liver
+2138_s1088_aorta.nii.g_1,aorta
+2139_s1088_kidney_right.nii.g_1,kidney right
+2140_s1088_liver.nii.g_1,liver
+2141_s1089_aorta.nii.g_1,aorta
+2142_s1089_kidney_right.nii.g_1,kidney right
+2143_s1089_liver.nii.g_1,liver
+2144_s1090_aorta.nii.g_1,aorta
+2145_s1090_kidney_right.nii.g_1,kidney right
+2146_s1090_liver.nii.g_1,liver
+2147_s1093_aorta.nii.g_1,aorta
+2148_s1094_aorta.nii.g_1,aorta
+2149_s1094_liver.nii.g_1,liver
+2150_s1096_aorta.nii.g_1,aorta
+2151_s1096_liver.nii.g_1,liver
+2152_s1097_aorta.nii.g_1,aorta
+2153_s1097_liver.nii.g_1,liver
+2154_s1098_aorta.nii.g_1,aorta
+2155_s1099_aorta.nii.g_1,aorta
+2156_s1099_kidney_right.nii.g_1,kidney right
+2157_s1099_liver.nii.g_1,liver
+2158_s1100_aorta.nii.g_1,aorta
+2159_s1100_kidney_right.nii.g_1,kidney right
+2160_s1100_liver.nii.g_1,liver
+2161_s1101_aorta.nii.g_1,aorta
+2162_s1101_kidney_right.nii.g_1,kidney right
+2163_s1101_liver.nii.g_1,liver
+2164_s1102_aorta.nii.g_1,aorta
+2165_s1102_kidney_right.nii.g_1,kidney right
+2166_s1102_liver.nii.g_1,liver
+2167_s1103_aorta.nii.g_1,aorta
+2168_s1103_kidney_right.nii.g_1,kidney right
+2169_s1103_liver.nii.g_1,liver
+2170_s1105_aorta.nii.g_1,aorta
+2171_s1105_kidney_right.nii.g_1,kidney right
+2172_s1105_liver.nii.g_1,liver
+2173_s1106_aorta.nii.g_1,aorta
+2174_s1106_liver.nii.g_1,liver
+2175_s1107_aorta.nii.g_1,aorta
+2176_s1109_aorta.nii.g_1,aorta
+2177_s1109_kidney_right.nii.g_1,kidney right
+2178_s1110_aorta.nii.g_1,aorta
+2179_s1110_kidney_right.nii.g_1,kidney right
+2180_s1110_liver.nii.g_1,liver
+2181_s1111_aorta.nii.g_1,aorta
+2182_s1111_kidney_right.nii.g_1,kidney right
+2183_s1111_liver.nii.g_1,liver
+2184_s1112_aorta.nii.g_1,aorta
+2185_s1113_aorta.nii.g_1,aorta
+2186_s1114_aorta.nii.g_1,aorta
+2187_s1115_aorta.nii.g_1,aorta
+2188_s1119_aorta.nii.g_1,aorta
+2189_s1119_kidney_right.nii.g_1,kidney right
+2190_s1119_liver.nii.g_1,liver
+2191_s1120_aorta.nii.g_1,aorta
+2192_s1120_kidney_right.nii.g_1,kidney right
+2193_s1120_liver.nii.g_1,liver
+2194_s1121_aorta.nii.g_1,aorta
+2195_s1121_kidney_right.nii.g_1,kidney right
+2196_s1121_liver.nii.g_1,liver
+2197_s1122_aorta.nii.g_1,aorta
+2198_s1122_kidney_right.nii.g_1,kidney right
+2199_s1122_liver.nii.g_1,liver
+2200_s1123_aorta.nii.g_1,aorta
+2201_s1123_kidney_right.nii.g_1,kidney right
+2202_s1123_liver.nii.g_1,liver
+2203_s1124_aorta.nii.g_1,aorta
+2204_s1124_kidney_right.nii.g_1,kidney right
+2205_s1124_liver.nii.g_1,liver
+2206_s1125_aorta.nii.g_1,aorta
+2207_s1127_aorta.nii.g_1,aorta
+2208_s1127_kidney_right.nii.g_1,kidney right
+2209_s1127_liver.nii.g_1,liver
+2210_s1128_aorta.nii.g_1,aorta
+2211_s1129_aorta.nii.g_1,aorta
+2212_s1130_aorta.nii.g_1,aorta
+2213_s1130_kidney_right.nii.g_1,kidney right
+2214_s1130_liver.nii.g_1,liver
+2215_s1131_aorta.nii.g_1,aorta
+2216_s1131_kidney_right.nii.g_1,kidney right
+2217_s1131_liver.nii.g_1,liver
+2218_s1132_aorta.nii.g_1,aorta
+2219_s1132_kidney_right.nii.g_1,kidney right
+2220_s1132_liver.nii.g_1,liver
+2221_s1133_aorta.nii.g_1,aorta
+2222_s1133_kidney_right.nii.g_1,kidney right
+2223_s1133_liver.nii.g_1,liver
+2224_s1134_aorta.nii.g_1,aorta
+2225_s1134_liver.nii.g_1,liver
+2226_s1135_aorta.nii.g_1,aorta
+2227_s1135_kidney_right.nii.g_1,kidney right
+2228_s1135_liver.nii.g_1,liver
+2229_s1136_aorta.nii.g_1,aorta
+2230_s1136_liver.nii.g_1,liver
+2231_s1137_aorta.nii.g_1,aorta
+2232_s1137_kidney_right.nii.g_1,kidney right
+2233_s1137_liver.nii.g_1,liver
+2234_s1138_aorta.nii.g_1,aorta
+2235_s1140_aorta.nii.g_1,aorta
+2236_s1140_kidney_right.nii.g_1,kidney right
+2237_s1140_liver.nii.g_1,liver
+2238_s1141_aorta.nii.g_1,aorta
+2239_s1142_aorta.nii.g_1,aorta
+2240_s1142_kidney_right.nii.g_1,kidney right
+2241_s1142_liver.nii.g_1,liver
+2242_s1143_aorta.nii.g_1,aorta
+2243_s1143_kidney_right.nii.g_1,kidney right
+2244_s1143_liver.nii.g_1,liver
+2245_s1144_aorta.nii.g_1,aorta
+2246_s1144_kidney_right.nii.g_1,kidney right
+2247_s1144_liver.nii.g_1,liver
+2248_s1145_aorta.nii.g_1,aorta
+2249_s1145_kidney_right.nii.g_1,kidney right
+2250_s1145_liver.nii.g_1,liver
+2251_s1146_aorta.nii.g_1,aorta
+2252_s1146_liver.nii.g_1,liver
+2253_s1147_aorta.nii.g_1,aorta
+2254_s1149_aorta.nii.g_1,aorta
+2255_s1149_kidney_right.nii.g_1,kidney right
+2256_s1149_liver.nii.g_1,liver
+2257_s1151_aorta.nii.g_1,aorta
+2258_s1151_kidney_right.nii.g_1,kidney right
+2259_s1151_liver.nii.g_1,liver
+2260_s1152_aorta.nii.g_1,aorta
+2261_s1152_kidney_right.nii.g_1,kidney right
+2262_s1152_liver.nii.g_1,liver
+2263_s1153_aorta.nii.g_1,aorta
+2264_s1153_kidney_right.nii.g_1,kidney right
+2265_s1153_liver.nii.g_1,liver
+2266_s1154_aorta.nii.g_1,aorta
+2267_s1155_aorta.nii.g_1,aorta
+2268_s1155_kidney_right.nii.g_1,kidney right
+2269_s1155_liver.nii.g_1,liver
+2270_s1157_aorta.nii.g_1,aorta
+2271_s1157_kidney_right.nii.g_1,kidney right
+2272_s1157_liver.nii.g_1,liver
+2273_s1158_aorta.nii.g_1,aorta
+2274_s1158_kidney_right.nii.g_1,kidney right
+2275_s1158_liver.nii.g_1,liver
+2276_s1159_aorta.nii.g_1,aorta
+2277_s1159_kidney_right.nii.g_1,kidney right
+2278_s1159_liver.nii.g_1,liver
+2279_s1161_aorta.nii.g_1,aorta
+2280_s1161_kidney_right.nii.g_1,kidney right
+2281_s1161_liver.nii.g_1,liver
+2282_s1162_aorta.nii.g_1,aorta
+2283_s1162_kidney_right.nii.g_1,kidney right
+2284_s1162_liver.nii.g_1,liver
+2285_s1163_aorta.nii.g_1,aorta
+2286_s1164_aorta.nii.g_1,aorta
+2287_s1164_kidney_right.nii.g_1,kidney right
+2288_s1164_liver.nii.g_1,liver
+2289_s1165_aorta.nii.g_1,aorta
+2290_s1165_kidney_right.nii.g_1,kidney right
+2291_s1165_liver.nii.g_1,liver
+2292_s1167_aorta.nii.g_1,aorta
+2293_s1167_kidney_right.nii.g_1,kidney right
+2294_s1167_liver.nii.g_1,liver
+2295_s1171_aorta.nii.g_1,aorta
+2296_s1171_kidney_right.nii.g_1,kidney right
+2297_s1171_liver.nii.g_1,liver
+2298_s1172_aorta.nii.g_1,aorta
+2299_s1172_liver.nii.g_1,liver
+2300_s1173_aorta.nii.g_1,aorta
+2301_s1173_kidney_right.nii.g_1,kidney right
+2302_s1173_liver.nii.g_1,liver
+2303_s1174_aorta.nii.g_1,aorta
+2304_s1174_kidney_right.nii.g_1,kidney right
+2305_s1174_liver.nii.g_1,liver
+2306_s1175_aorta.nii.g_1,aorta
+2307_s1175_kidney_right.nii.g_1,kidney right
+2308_s1175_liver.nii.g_1,liver
+2309_s1176_aorta.nii.g_1,aorta
+2310_s1176_kidney_right.nii.g_1,kidney right
+2311_s1176_liver.nii.g_1,liver
+2312_s1178_aorta.nii.g_1,aorta
+2313_s1178_liver.nii.g_1,liver
+2314_s1179_aorta.nii.g_1,aorta
+2315_s1179_liver.nii.g_1,liver
+2316_s1182_aorta.nii.g_1,aorta
+2317_s1182_liver.nii.g_1,liver
+2318_s1183_aorta.nii.g_1,aorta
+2319_s1183_kidney_right.nii.g_1,kidney right
+2320_s1183_liver.nii.g_1,liver
+2321_s1184_aorta.nii.g_1,aorta
+2322_s1185_aorta.nii.g_1,aorta
+2323_s1187_aorta.nii.g_1,aorta
+2324_s1187_kidney_right.nii.g_1,kidney right
+2325_s1187_liver.nii.g_1,liver
+2326_s1189_aorta.nii.g_1,aorta
+2327_s1189_kidney_right.nii.g_1,kidney right
+2328_s1189_liver.nii.g_1,liver
+2329_s1190_aorta.nii.g_1,aorta
+2330_s1190_kidney_right.nii.g_1,kidney right
+2331_s1190_liver.nii.g_1,liver
+2332_s1191_aorta.nii.g_1,aorta
+2333_s1191_liver.nii.g_1,liver
+2334_s1192_aorta.nii.g_1,aorta
+2335_s1195_aorta.nii.g_1,aorta
+2336_s1196_aorta.nii.g_1,aorta
+2337_s1196_kidney_right.nii.g_1,kidney right
+2338_s1196_liver.nii.g_1,liver
+2339_s1197_aorta.nii.g_1,aorta
+2340_s1197_kidney_right.nii.g_1,kidney right
+2341_s1197_liver.nii.g_1,liver
+2342_s1199_aorta.nii.g_1,aorta
+2343_s1199_kidney_right.nii.g_1,kidney right
+2344_s1199_liver.nii.g_1,liver
+2345_s1201_aorta.nii.g_1,aorta
+2346_s1201_kidney_right.nii.g_1,kidney right
+2347_s1201_liver.nii.g_1,liver
+2348_s1203_aorta.nii.g_1,aorta
+2349_s1203_liver.nii.g_1,liver
+2350_s1205_aorta.nii.g_1,aorta
+2351_s1205_kidney_right.nii.g_1,kidney right
+2352_s1205_liver.nii.g_1,liver
+2353_s1206_aorta.nii.g_1,aorta
+2354_s1206_kidney_right.nii.g_1,kidney right
+2355_s1206_liver.nii.g_1,liver
+2356_s1207_aorta.nii.g_1,aorta
+2357_s1207_kidney_right.nii.g_1,kidney right
+2358_s1207_liver.nii.g_1,liver
+2359_s1208_aorta.nii.g_1,aorta
+2360_s1208_kidney_right.nii.g_1,kidney right
+2361_s1208_liver.nii.g_1,liver
+2362_s1209_aorta.nii.g_1,aorta
+2363_s1209_kidney_right.nii.g_1,kidney right
+2364_s1209_liver.nii.g_1,liver
+2365_s1210_aorta.nii.g_1,aorta
+2366_s1210_kidney_right.nii.g_1,kidney right
+2367_s1210_liver.nii.g_1,liver
+2368_s1212_aorta.nii.g_1,aorta
+2369_s1212_kidney_right.nii.g_1,kidney right
+2370_s1212_liver.nii.g_1,liver
+2371_s1216_aorta.nii.g_1,aorta
+2372_s1216_kidney_right.nii.g_1,kidney right
+2373_s1216_liver.nii.g_1,liver
+2374_s1220_aorta.nii.g_1,aorta
+2375_s1221_aorta.nii.g_1,aorta
+2376_s1221_kidney_right.nii.g_1,kidney right
+2377_s1221_liver.nii.g_1,liver
+2378_s1223_aorta.nii.g_1,aorta
+2379_s1223_kidney_right.nii.g_1,kidney right
+2380_s1223_liver.nii.g_1,liver
+2381_s1224_aorta.nii.g_1,aorta
+2382_s1224_kidney_right.nii.g_1,kidney right
+2383_s1224_liver.nii.g_1,liver
+2384_s1225_aorta.nii.g_1,aorta
+2385_s1225_liver.nii.g_1,liver
+2386_s1226_aorta.nii.g_1,aorta
+2387_s1226_liver.nii.g_1,liver
+2388_s1228_aorta.nii.g_1,aorta
+2389_s1228_kidney_right.nii.g_1,kidney right
+2390_s1228_liver.nii.g_1,liver
+2391_s1230_aorta.nii.g_1,aorta
+2392_s1230_kidney_right.nii.g_1,kidney right
+2393_s1230_liver.nii.g_1,liver
+2394_s1231_aorta.nii.g_1,aorta
+2395_s1233_aorta.nii.g_1,aorta
+2396_s1233_kidney_right.nii.g_1,kidney right
+2397_s1233_liver.nii.g_1,liver
+2398_s1234_aorta.nii.g_1,aorta
+2399_s1235_aorta.nii.g_1,aorta
+2400_s1235_kidney_right.nii.g_1,kidney right
+2401_s1235_liver.nii.g_1,liver
+2402_s1236_aorta.nii.g_1,aorta
+2403_s1236_kidney_right.nii.g_1,kidney right
+2404_s1236_liver.nii.g_1,liver
+2405_s1237_aorta.nii.g_1,aorta
+2406_s1237_liver.nii.g_1,liver
+2407_s1238_aorta.nii.g_1,aorta
+2408_s1238_kidney_right.nii.g_1,kidney right
+2409_s1238_liver.nii.g_1,liver
+2410_s1239_aorta.nii.g_1,aorta
+2411_s1239_liver.nii.g_1,liver
+2412_s1240_aorta.nii.g_1,aorta
+2413_s1240_kidney_right.nii.g_1,kidney right
+2414_s1240_liver.nii.g_1,liver
+2415_s1241_aorta.nii.g_1,aorta
+2416_s1241_kidney_right.nii.g_1,kidney right
+2417_s1241_liver.nii.g_1,liver
+2418_s1242_aorta.nii.g_1,aorta
+2419_s1243_aorta.nii.g_1,aorta
+2420_s1243_liver.nii.g_1,liver
+2421_s1244_aorta.nii.g_1,aorta
+2422_s1244_kidney_right.nii.g_1,kidney right
+2423_s1244_liver.nii.g_1,liver
+2424_s1245_aorta.nii.g_1,aorta
+2425_s1245_kidney_right.nii.g_1,kidney right
+2426_s1245_liver.nii.g_1,liver
+2427_s1247_aorta.nii.g_1,aorta
+2428_s1247_kidney_right.nii.g_1,kidney right
+2429_s1247_liver.nii.g_1,liver
+2430_s1248_aorta.nii.g_1,aorta
+2431_s1248_kidney_right.nii.g_1,kidney right
+2432_s1248_liver.nii.g_1,liver
+2433_s1249_aorta.nii.g_1,aorta
+2434_s1249_kidney_right.nii.g_1,kidney right
+2435_s1249_liver.nii.g_1,liver
+2436_s1250_aorta.nii.g_1,aorta
+2437_s1250_liver.nii.g_1,liver
+2438_s1251_aorta.nii.g_1,aorta
+2439_s1251_kidney_right.nii.g_1,kidney right
+2440_s1251_liver.nii.g_1,liver
+2441_s1252_aorta.nii.g_1,aorta
+2442_s1252_kidney_right.nii.g_1,kidney right
+2443_s1252_liver.nii.g_1,liver
+2444_s1254_aorta.nii.g_1,aorta
+2445_s1254_liver.nii.g_1,liver
+2446_s1255_aorta.nii.g_1,aorta
+2447_s1255_kidney_right.nii.g_1,kidney right
+2448_s1255_liver.nii.g_1,liver
+2449_s1256_aorta.nii.g_1,aorta
+2450_s1256_kidney_right.nii.g_1,kidney right
+2451_s1256_liver.nii.g_1,liver
+2452_s1257_aorta.nii.g_1,aorta
+2453_s1257_kidney_right.nii.g_1,kidney right
+2454_s1257_liver.nii.g_1,liver
+2455_s1258_aorta.nii.g_1,aorta
+2456_s1258_liver.nii.g_1,liver
+2457_s1259_aorta.nii.g_1,aorta
+2458_s1259_liver.nii.g_1,liver
+2459_s1261_aorta.nii.g_1,aorta
+2460_s1262_aorta.nii.g_1,aorta
+2461_s1262_kidney_right.nii.g_1,kidney right
+2462_s1262_liver.nii.g_1,liver
+2463_s1264_aorta.nii.g_1,aorta
+2464_s1264_kidney_right.nii.g_1,kidney right
+2465_s1264_liver.nii.g_1,liver
+2466_s1267_aorta.nii.g_1,aorta
+2467_s1267_kidney_right.nii.g_1,kidney right
+2468_s1267_liver.nii.g_1,liver
+2469_s1268_aorta.nii.g_1,aorta
+2470_s1269_aorta.nii.g_1,aorta
+2471_s1269_kidney_right.nii.g_1,kidney right
+2472_s1269_liver.nii.g_1,liver
+2473_s1270_aorta.nii.g_1,aorta
+2474_s1270_kidney_right.nii.g_1,kidney right
+2475_s1270_liver.nii.g_1,liver
+2476_s1271_aorta.nii.g_1,aorta
+2477_s1271_kidney_right.nii.g_1,kidney right
+2478_s1271_liver.nii.g_1,liver
+2479_s1272_aorta.nii.g_1,aorta
+2480_s1272_kidney_right.nii.g_1,kidney right
+2481_s1272_liver.nii.g_1,liver
+2482_s1273_aorta.nii.g_1,aorta
+2483_s1273_kidney_right.nii.g_1,kidney right
+2484_000442_aorta,aorta
+2485_000442_heart,heart 
+2486_000442_kidneyright,kidney right
+2487_000442_liver,liver
+2488_001313_aorta,aorta
+2489_001313_heart,heart 
+2490_001313_kidneyright,kidney right
+2491_001313_liver,liver
+2492_002056_aorta,aorta
+2493_002056_heart,heart 
+2494_002056_kidneyright,kidney right
+2495_002056_liver,liver
+2496_002459_aorta,aorta
+2497_002459_heart,heart 
+2498_002459_kidneyright,kidney right
+2499_002459_liver,liver
+2500_002737_aorta,aorta
+2501_002737_heart,heart 
+2502_002737_kidneyright,kidney right
+2503_002737_liver,liver
+2504_003164_aorta,aorta
+2505_003164_heart,heart 
+2506_003164_kidneyright,kidney right
+2507_003164_liver,liver
+2508_004329_aorta,aorta
+2509_004329_heart,heart 
+2510_004329_kidneyright,kidney right
+2511_004329_liver,liver
+2512_005001_aorta,aorta
+2513_005001_heart,heart 
+2514_005001_kidneyright,kidney right
+2515_005001_liver,liver
+2516_005703_aorta,aorta
+2517_005703_heart,heart 
+2518_005703_kidneyright,kidney right
+2519_005703_liver,liver
+2520_006412_aorta,aorta
+2521_006412_heart,heart 
+2522_006412_kidneyright,kidney right
+2523_006412_liver,liver
+2524_006919_aorta,aorta
+2525_006919_heart,heart 
+2526_006919_kidneyright,kidney right
+2527_006919_liver,liver
+2528_006968_aorta,aorta
+2529_006968_heart,heart 
+2530_006968_kidneyright,kidney right
+2531_006968_liver,liver
+2532_007499_aorta,aorta
+2533_007499_heart,heart 
+2534_007499_kidneyright,kidney right
+2535_007499_liver,liver
+2536_007563_aorta,aorta
+2537_007563_heart,heart 
+2538_007563_kidneyright,kidney right
+2539_007563_liver,liver
+2540_007954_aorta,aorta
+2541_007954_heart,heart 
+2542_007954_kidneyright,kidney right
+2543_007954_liver,liver
+2544_008282_aorta,aorta
+2545_008282_heart,heart 
+2546_008282_kidneyright,kidney right
+2547_008282_liver,liver
+2548_008512_aorta,aorta
+2549_008512_heart,heart 
+2550_008512_kidneyright,kidney right
+2551_008512_liver,liver
+2552_008517_aorta,aorta
+2553_008517_heart,heart 
+2554_008517_kidneyright,kidney right
+2555_008517_liver,liver
+2556_008525_aorta,aorta
+2557_008525_heart,heart 
+2558_008525_kidneyright,kidney right
+2559_008525_liver,liver
+2560_008717_aorta,aorta
+2561_008717_heart,heart 
+2562_008717_kidneyright,kidney right
+2563_008717_liver,liver
+2564_008738_aorta,aorta
+2565_008738_heart,heart 
+2566_008738_kidneyright,kidney right
+2567_008738_liver,liver
+2568_009110_aorta,aorta
+2569_009110_heart,heart 
+2570_009110_kidneyright,kidney right
+2571_009110_liver,liver
+2572_009129_aorta,aorta
+2573_009129_heart,heart 
+2574_009129_kidneyright,kidney right
+2575_009129_liver,liver
+2576_009310_aorta,aorta
+2577_009310_heart,heart 
+2578_009310_kidneyright,kidney right
+2579_009310_liver,liver
+2580_009401_aorta,aorta
+2581_009401_heart,heart 
+2582_009401_kidneyright,kidney right
+2583_009401_liver,liver
+2584_009791_aorta,aorta
+2585_009791_heart,heart 
+2586_009791_kidneyright,kidney right
+2587_009791_liver,liver
+2588_010303_aorta,aorta
+2589_010303_heart,heart 
+2590_010303_kidneyright,kidney right
+2591_010303_liver,liver
+2592_010445_aorta,aorta
+2593_010445_heart,heart 
+2594_010445_kidneyright,kidney right
+2595_010445_liver,liver
+2596_010464_aorta,aorta
+2597_010464_heart,heart 
+2598_010464_kidneyright,kidney right
+2599_010464_liver,liver
+2600_010527_aorta,aorta
+2601_010527_heart,heart 
+2602_010527_kidneyright,kidney right
+2603_010527_liver,liver
+2604_011736_aorta,aorta
+2605_011736_heart,heart 
+2606_011736_kidneyright,kidney right
+2607_011736_liver,liver
+2608_012499_aorta,aorta
+2609_012499_heart,heart 
+2610_012499_kidneyright,kidney right
+2611_012499_liver,liver
+2612_012980_aorta,aorta
+2613_012980_heart,heart 
+2614_012980_kidneyright,kidney right
+2615_012980_liver,liver
+2616_013285_aorta,aorta
+2617_013285_heart,heart 
+2618_013285_kidneyright,kidney right
+2619_013285_liver,liver
+2620_013514_aorta,aorta
+2621_013514_heart,heart 
+2622_013514_kidneyright,kidney right
+2623_013514_liver,liver
+2624_014836_aorta,aorta
+2625_014836_heart,heart 
+2626_014836_kidneyright,kidney right
+2627_014836_liver,liver
+2628_015731_aorta,aorta
+2629_015731_heart,heart 
+2630_015731_kidneyright,kidney right
+2631_015731_liver,liver
+2632_015963_aorta,aorta
+2633_015963_heart,heart 
+2634_015963_kidneyright,kidney right
+2635_015963_liver,liver
+2636_016386_aorta,aorta
+2637_016386_heart,heart 
+2638_016386_kidneyright,kidney right
+2639_016386_liver,liver
+2640_016422_aorta,aorta
+2641_016422_heart,heart 
+2642_016422_kidneyright,kidney right
+2643_016422_liver,liver
+2644_016657_aorta,aorta
+2645_016657_heart,heart 
+2646_016657_kidneyright,kidney right
+2647_016657_liver,liver
+2648_016783_aorta,aorta
+2649_016783_heart,heart 
+2650_016783_kidneyright,kidney right
+2651_016783_liver,liver
+2652_016793_aorta,aorta
+2653_016793_heart,heart 
+2654_016793_kidneyright,kidney right
+2655_016793_liver,liver
+2656_016838_aorta,aorta
+2657_016838_heart,heart 
+2658_016838_kidneyright,kidney right
+2659_016838_liver,liver
+2660_016881_aorta,aorta
+2661_016881_heart,heart 
+2662_016881_kidneyright,kidney right
+2663_016881_liver,liver
+2664_017081_aorta,aorta
+2665_017081_heart,heart 
+2666_017081_kidneyright,kidney right
+2667_017081_liver,liver
+2668_017214_aorta,aorta
+2669_017214_heart,heart 
+2670_017214_kidneyright,kidney right
+2671_017214_liver,liver
+2672_017334_aorta,aorta
+2673_017334_heart,heart 
+2674_017334_kidneyright,kidney right
+2675_017334_liver,liver
+2676_017917_aorta,aorta
+2677_017917_heart,heart 
+2678_017917_kidneyright,kidney right
+2679_017917_liver,liver
+2680_018831_aorta,aorta
+2681_018831_heart,heart 
+2682_018831_kidneyright,kidney right
+2683_018831_liver,liver
+2684_019541_aorta,aorta
+2685_019541_heart,heart 
+2686_019541_kidneyright,kidney right
+2687_019541_liver,liver
+2688_019611_aorta,aorta
+2689_019611_heart,heart 
+2690_019611_kidneyright,kidney right
+2691_019611_liver,liver
+2692_019870_aorta,aorta
+2693_019870_heart,heart 
+2694_019870_kidneyright,kidney right
+2695_019870_liver,liver
+2696_020241_aorta,aorta
+2697_020241_heart,heart 
+2698_020241_kidneyright,kidney right
+2699_020241_liver,liver
+2700_020485_aorta,aorta
+2701_020485_heart,heart 
+2702_020485_kidneyright,kidney right
+2703_020485_liver,liver
+2704_020555_aorta,aorta
+2705_020555_heart,heart 
+2706_020555_kidneyright,kidney right
+2707_020555_liver,liver
+2708_020586_aorta,aorta
+2709_020586_heart,heart 
+2710_020586_kidneyright,kidney right
+2711_020586_liver,liver
+2712_020636_aorta,aorta
+2713_020636_heart,heart 
+2714_020636_kidneyright,kidney right
+2715_020636_liver,liver
+2716_020805_aorta,aorta
+2717_020805_heart,heart 
+2718_020805_kidneyright,kidney right
+2719_020805_liver,liver
+2720_020980_aorta,aorta
+2721_020980_heart,heart 
+2722_020980_kidneyright,kidney right
+2723_020980_liver,liver
+2724_021240_aorta,aorta
+2725_021240_heart,heart 
+2726_021240_kidneyright,kidney right
+2727_021240_liver,liver
+2728_021375_aorta,aorta
+2729_021375_heart,heart 
+2730_021375_kidneyright,kidney right
+2731_021375_liver,liver
+2732_021910_aorta,aorta
+2733_021910_heart,heart 
+2734_021910_kidneyright,kidney right
+2735_021910_liver,liver
+2736_022056_aorta,aorta
+2737_022056_heart,heart 
+2738_022056_kidneyright,kidney right
+2739_022056_liver,liver
+2740_022078_aorta,aorta
+2741_022078_heart,heart 
+2742_022078_kidneyright,kidney right
+2743_022078_liver,liver
+2744_022538_aorta,aorta
+2745_022538_heart,heart 
+2746_022538_kidneyright,kidney right
+2747_022538_liver,liver
+2748_022679_aorta,aorta
+2749_022679_heart,heart 
+2750_022679_kidneyright,kidney right
+2751_022679_liver,liver
+2752_022953_aorta,aorta
+2753_022953_heart,heart 
+2754_022953_kidneyright,kidney right
+2755_022953_liver,liver
+2756_024073_aorta,aorta
+2757_024073_heart,heart 
+2758_024073_kidneyright,kidney right
+2759_024073_liver,liver
+2760_024165_aorta,aorta
+2761_024165_heart,heart 
+2762_024165_kidneyright,kidney right
+2763_024165_liver,liver
+2764_024640_aorta,aorta
+2765_024640_heart,heart 
+2766_024640_kidneyright,kidney right
+2767_024640_liver,liver
+2768_025383_aorta,aorta
+2769_025383_heart,heart 
+2770_025383_kidneyright,kidney right
+2771_025383_liver,liver
+2772_025891_aorta,aorta
+2773_025891_heart,heart 
+2774_025891_kidneyright,kidney right
+2775_025891_liver,liver
+2776_026210_aorta,aorta
+2777_026210_heart,heart 
+2778_026210_kidneyright,kidney right
+2779_026210_liver,liver
+2780_026480_aorta,aorta
+2781_026480_heart,heart 
+2782_026480_kidneyright,kidney right
+2783_026480_liver,liver
+2784_026861_aorta,aorta
+2785_026861_heart,heart 
+2786_026861_kidneyright,kidney right
+2787_026861_liver,liver
+2788_027527_aorta,aorta
+2789_027527_heart,heart 
+2790_027527_kidneyright,kidney right
+2791_027527_liver,liver
+2792_027536_aorta,aorta
+2793_027536_heart,heart 
+2794_027536_liver,liver
+2795_027550_aorta,aorta
+2796_027550_heart,heart 
+2797_027550_kidneyright,kidney right
+2798_027550_liver,liver
+2799_027776_aorta,aorta
+2800_027776_heart,heart 
+2801_027776_kidneyright,kidney right
+2802_027776_liver,liver
+2803_028262_aorta,aorta
+2804_028262_heart,heart 
+2805_028262_kidneyright,kidney right
+2806_028262_liver,liver
+2807_029055_aorta,aorta
+2808_029055_heart,heart 
+2809_029055_kidneyright,kidney right
+2810_029055_liver,liver
+2811_029523_aorta,aorta
+2812_029523_heart,heart 
+2813_029523_kidneyright,kidney right
+2814_029523_liver,liver
+2815_029572_aorta,aorta
+2816_029572_heart,heart 
+2817_029572_kidneyright,kidney right
+2818_029572_liver,liver
+2819_030248_aorta,aorta
+2820_030248_heart,heart 
+2821_030248_kidneyright,kidney right
+2822_030248_liver,liver
+2823_030298_aorta,aorta
+2824_030298_heart,heart 
+2825_030298_kidneyright,kidney right
+2826_030298_liver,liver
+2827_030574_aorta,aorta
+2828_030574_heart,heart 
+2829_030574_kidneyright,kidney right
+2830_030574_liver,liver
+2831_031618_aorta,aorta
+2832_031618_heart,heart 
+2833_031618_kidneyright,kidney right
+2834_031618_liver,liver
+2835_032417_aorta,aorta
+2836_032417_heart,heart 
+2837_032417_kidneyright,kidney right
+2838_032417_liver,liver
+2839_032502_aorta,aorta
+2840_032502_heart,heart 
+2841_032502_kidneyright,kidney right
+2842_032502_liver,liver
+2843_033251_aorta,aorta
+2844_033251_heart,heart 
+2845_033251_kidneyright,kidney right
+2846_033251_liver,liver
+2847_033529_aorta,aorta
+2848_033529_heart,heart 
+2849_033529_kidneyright,kidney right
+2850_033529_liver,liver
+2851_033621_aorta,aorta
+2853_033621_kidneyright,kidney right
+2854_033621_liver,liver
+2855_033641_aorta,aorta
+2856_033641_heart,heart 
+2857_033641_kidneyright,kidney right
+2858_033641_liver,liver
+2859_033663_aorta,aorta
+2860_033663_heart,heart 
+2861_033663_kidneyright,kidney right
+2862_033663_liver,liver
+2863_034298_aorta,aorta
+2864_034298_heart,heart 
+2865_034298_kidneyright,kidney right
+2866_034298_liver,liver
+2867_034568_aorta,aorta
+2868_034568_heart,heart 
+2869_034568_kidneyright,kidney right
+2870_034568_liver,liver
+2871_034619_aorta,aorta
+2872_034619_heart,heart 
+2873_034619_kidneyright,kidney right
+2874_034619_liver,liver
+2875_034848_aorta,aorta
+2876_034848_heart,heart 
+2877_034848_kidneyright,kidney right
+2878_034848_liver,liver
+2879_034892_aorta,aorta
+2880_034892_heart,heart 
+2881_034892_kidneyright,kidney right
+2882_034892_liver,liver
+2883_035422_aorta,aorta
+2884_035422_heart,heart 
+2885_035422_kidneyright,kidney right
+2886_035422_liver,liver
+2887_035445_aorta,aorta
+2888_035445_heart,heart 
+2889_035445_kidneyright,kidney right
+2890_035445_liver,liver
+2891_035511_aorta,aorta
+2892_035511_heart,heart 
+2893_035511_kidneyright,kidney right
+2894_035511_liver,liver
+2895_035614_aorta,aorta
+2896_035614_heart,heart 
+2897_035614_kidneyright,kidney right
+2898_035614_liver,liver
+2899_036034_aorta,aorta
+2900_036034_heart,heart 
+2901_036034_kidneyright,kidney right
+2902_036034_liver,liver
+2903_036051_aorta,aorta
+2904_036051_heart,heart 
+2905_036051_kidneyright,kidney right
+2906_036051_liver,liver
+2907_036159_aorta,aorta
+2908_036159_heart,heart 
+2909_036159_kidneyright,kidney right
+2910_036159_liver,liver
+2911_036676_aorta,aorta
+2912_036676_heart,heart 
+2913_036676_kidneyright,kidney right
+2914_036676_liver,liver
+2915_036881_aorta,aorta
+2916_036881_heart,heart 
+2917_036881_kidneyright,kidney right
+2918_036881_liver,liver
+2919_036915_aorta,aorta
+2920_036915_heart,heart 
+2921_036915_kidneyright,kidney right
+2922_036915_liver,liver
+2923_037413_aorta,aorta
+2924_037413_heart,heart 
+2925_037413_kidneyright,kidney right
+2926_037413_liver,liver
+2927_037591_aorta,aorta
+2928_037591_heart,heart 
+2929_037591_kidneyright,kidney right
+2930_037591_liver,liver
+2931_037622_aorta,aorta
+2932_037622_heart,heart 
+2933_037622_kidneyright,kidney right
+2934_037622_liver,liver
+2935_037785_aorta,aorta
+2936_037785_heart,heart 
+2937_037785_kidneyright,kidney right
+2938_037785_liver,liver
+2939_038312_aorta,aorta
+2940_038312_heart,heart 
+2941_038312_kidneyright,kidney right
+2942_038312_liver,liver
+2943_038550_aorta,aorta
+2944_038550_heart,heart 
+2945_038550_kidneyright,kidney right
+2946_038550_liver,liver
+2947_039942_aorta,aorta
+2948_039942_heart,heart 
+2949_039942_kidneyright,kidney right
+2950_039942_liver,liver
+2951_040288_aorta,aorta
+2952_040288_heart,heart 
+2953_040288_kidneyright,kidney right
+2954_040288_liver,liver
+2955_040971_aorta,aorta
+2956_040971_heart,heart 
+2957_040971_kidneyright,kidney right
+2958_040971_liver,liver
+2959_040984_aorta,aorta
+2960_040984_heart,heart 
+2961_040984_kidneyright,kidney right
+2962_040984_liver,liver
+2963_041089_aorta,aorta
+2964_041089_heart,heart 
+2965_041089_kidneyright,kidney right
+2966_041089_liver,liver
+2967_041469_aorta,aorta
+2968_041469_heart,heart 
+2969_041469_kidneyright,kidney right
+2970_041469_liver,liver
+2971_041879_aorta,aorta
+2972_041879_heart,heart 
+2973_041879_kidneyright,kidney right
+2974_041879_liver,liver
+2975_042071_aorta,aorta
+2976_042071_heart,heart 
+2977_042071_kidneyright,kidney right
+2978_042071_liver,liver
+2979_042241_aorta,aorta
+2980_042241_heart,heart 
+2981_042241_kidneyright,kidney right
+2982_042241_liver,liver
+2983_042966_aorta,aorta
+2984_042966_heart,heart 
+2985_042966_kidneyright,kidney right
+2986_042966_liver,liver
+2987_043565_aorta,aorta
+2988_043565_heart,heart 
+2989_043565_kidneyright,kidney right
+2990_043565_liver,liver
+2991_044294_aorta,aorta
+2992_044294_heart,heart 
+2993_044294_kidneyright,kidney right
+2994_044294_liver,liver
+2995_044296_aorta,aorta
+2996_044296_heart,heart 
+2997_044296_kidneyright,kidney right
+2998_044296_liver,liver
+2999_044688_aorta,aorta
+3000_044688_heart,heart 
+3001_044688_kidneyright,kidney right
+3002_044688_liver,liver
+3003_044694_aorta,aorta
+3004_044694_heart,heart 
+3005_044694_kidneyright,kidney right
+3006_044694_liver,liver
+3007_044814_aorta,aorta
+3008_044814_heart,heart 
+3009_044814_kidneyright,kidney right
+3010_044814_liver,liver
+3011_045104_aorta,aorta
+3012_045104_heart,heart 
+3013_045104_kidneyright,kidney right
+3014_045104_liver,liver
+3015_045776_aorta,aorta
+3016_045776_heart,heart 
+3017_045776_kidneyright,kidney right
+3018_045776_liver,liver
+3019_045963_aorta,aorta
+3020_045963_heart,heart 
+3021_045963_kidneyright,kidney right
+3022_045963_liver,liver
+3023_046163_aorta,aorta
+3024_046163_heart,heart 
+3025_046163_kidneyright,kidney right
+3026_046163_liver,liver
+3027_046343_aorta,aorta
+3028_046343_heart,heart 
+3029_046343_kidneyright,kidney right
+3030_046343_liver,liver
+3031_046623_aorta,aorta
+3032_046623_heart,heart 
+3033_046623_kidneyright,kidney right
+3034_046623_liver,liver
+3035_046988_aorta,aorta
+3036_046988_heart,heart 
+3037_046988_kidneyright,kidney right
+3038_046988_liver,liver
+3039_047251_aorta,aorta
+3040_047251_heart,heart 
+3041_047251_kidneyright,kidney right
+3042_047251_liver,liver
+3043_047449_aorta,aorta
+3044_047449_heart,heart 
+3045_047449_kidneyright,kidney right
+3046_047449_liver,liver
+3047_047501_aorta,aorta
+3048_047501_heart,heart 
+3049_047501_kidneyright,kidney right
+3050_047501_liver,liver
+3051_047727_aorta,aorta
+3052_047727_heart,heart 
+3053_047727_kidneyright,kidney right
+3054_047727_liver,liver
+3055_047863_aorta,aorta
+3056_047863_heart,heart 
+3057_047863_kidneyright,kidney right
+3058_047863_liver,liver
+3059_048249_aorta,aorta
+3060_048249_heart,heart 
+3061_048249_kidneyright,kidney right
+3062_048249_liver,liver
+3063_048645_aorta,aorta
+3064_048645_heart,heart 
+3065_048645_kidneyright,kidney right
+3066_048645_liver,liver
+3067_048750_aorta,aorta
+3068_048750_heart,heart 
+3069_048750_kidneyright,kidney right
+3070_048750_liver,liver
+3071_049172_aorta,aorta
+3072_049172_heart,heart 
+3073_049172_kidneyright,kidney right
+3074_049172_liver,liver
+3075_049419_aorta,aorta
+3076_049419_heart,heart 
+3077_049419_kidneyright,kidney right
+3078_049419_liver,liver
+3079_049696_aorta,aorta
+3080_049696_heart,heart 
+3081_049696_kidneyright,kidney right
+3082_049696_liver,liver
+3083_050630_aorta,aorta
+3084_050630_heart,heart 
+3085_050630_kidneyright,kidney right
+3086_050630_liver,liver
+3087_051100_aorta,aorta
+3088_051100_heart,heart 
+3089_051100_kidneyright,kidney right
+3090_051100_liver,liver
+3091_051720_aorta,aorta
+3092_051720_heart,heart 
+3093_051720_kidneyright,kidney right
+3094_051720_liver,liver
+3095_051928_aorta,aorta
+3096_051928_heart,heart 
+3097_051928_kidneyright,kidney right
+3098_051928_liver,liver
+3099_052826_aorta,aorta
+3100_052826_heart,heart 
+3101_052826_kidneyright,kidney right
+3102_052826_liver,liver
+3103_052913_aorta,aorta
+3104_052913_heart,heart 
+3105_052913_kidneyright,kidney right
+3106_052913_liver,liver
+3107_053199_aorta,aorta
+3108_053199_heart,heart 
+3109_053199_kidneyright,kidney right
+3110_053199_liver,liver
+3111_053737_aorta,aorta
+3112_053737_heart,heart 
+3113_053737_kidneyright,kidney right
+3114_053737_liver,liver
+3115_053829_aorta,aorta
+3116_053829_heart,heart 
+3117_053829_kidneyright,kidney right
+3118_053829_liver,liver
+3119_053966_aorta,aorta
+3120_053966_heart,heart 
+3121_053966_kidneyright,kidney right
+3122_053966_liver,liver
+3123_054309_aorta,aorta
+3124_054309_heart,heart 
+3125_054309_kidneyright,kidney right
+3126_054309_liver,liver
+3127_054461_aorta,aorta
+3128_054461_heart,heart 
+3129_054461_kidneyright,kidney right
+3130_054461_liver,liver
+3131_055211_aorta,aorta
+3132_055211_heart,heart 
+3133_055211_kidneyright,kidney right
+3134_055211_liver,liver
+3135_055543_aorta,aorta
+3136_055543_heart,heart 
+3137_055543_kidneyright,kidney right
+3138_055543_liver,liver
+3139_055807_aorta,aorta
+3140_055807_heart,heart 
+3141_055807_kidneyright,kidney right
+3142_055807_liver,liver
+3143_056073_aorta,aorta
+3144_056073_heart,heart 
+3145_056073_kidneyright,kidney right
+3146_056073_liver,liver
+3147_056839_aorta,aorta
+3148_056839_heart,heart 
+3149_056839_kidneyright,kidney right
+3150_056839_liver,liver
+3151_057089_aorta,aorta
+3152_057089_heart,heart 
+3153_057089_kidneyright,kidney right
+3154_057089_liver,liver
+3155_057155_aorta,aorta
+3156_057155_heart,heart 
+3157_057155_kidneyright,kidney right
+3158_057155_liver,liver
+3159_057333_aorta,aorta
+3160_057333_heart,heart 
+3161_057333_kidneyright,kidney right
+3162_057333_liver,liver
+3163_057422_aorta,aorta
+3164_057422_heart,heart 
+3165_057422_kidneyright,kidney right
+3166_057422_liver,liver
+3167_057428_aorta,aorta
+3168_057428_heart,heart 
+3169_057428_kidneyright,kidney right
+3170_057428_liver,liver
+3171_058120_aorta,aorta
+3172_058120_heart,heart 
+3173_058120_kidneyright,kidney right
+3174_058120_liver,liver
+3175_058977_aorta,aorta
+3176_058977_heart,heart 
+3177_058977_kidneyright,kidney right
+3178_058977_liver,liver
+3179_059045_aorta,aorta
+3180_059045_heart,heart 
+3181_059045_kidneyright,kidney right
+3182_059045_liver,liver
+3183_059426_aorta,aorta
+3184_059426_heart,heart 
+3185_059426_kidneyright,kidney right
+3186_059426_liver,liver
+3187_059710_aorta,aorta
+3188_059710_heart,heart 
+3189_059710_kidneyright,kidney right
+3190_059710_liver,liver
+3191_059817_aorta,aorta
+3192_059817_heart,heart 
+3193_059817_kidneyright,kidney right
+3194_059817_liver,liver
+3195_060478_aorta,aorta
+3196_060478_heart,heart 
+3197_060478_kidneyright,kidney right
+3198_060478_liver,liver
+3199_060625_aorta,aorta
+3200_060625_heart,heart 
+3201_060625_kidneyright,kidney right
+3202_060625_liver,liver
+3203_060752_aorta,aorta
+3204_060752_heart,heart 
+3205_060752_kidneyright,kidney right
+3206_060752_liver,liver
+3207_061481_aorta,aorta
+3208_061481_heart,heart 
+3209_061481_kidneyright,kidney right
+3210_061481_liver,liver
+3211_062131_aorta,aorta
+3212_062131_heart,heart 
+3213_062131_kidneyright,kidney right
+3214_062131_liver,liver
+3215_062219_aorta,aorta
+3216_062219_heart,heart 
+3217_062219_kidneyright,kidney right
+3218_062219_liver,liver
+3219_063813_aorta,aorta
+3220_063813_heart,heart 
+3221_063813_kidneyright,kidney right
+3222_063813_liver,liver
+3223_065884_aorta,aorta
+3224_065884_heart,heart 
+3225_065884_kidneyright,kidney right
+3226_065884_liver,liver
+3227_066154_aorta,aorta
+3228_066154_heart,heart 
+3229_066154_kidneyright,kidney right
+3230_066154_liver,liver
+3231_066236_aorta,aorta
+3232_066236_heart,heart 
+3233_066236_kidneyright,kidney right
+3234_066236_liver,liver
+3235_067664_aorta,aorta
+3236_067664_heart,heart 
+3237_067664_kidneyright,kidney right
+3238_067664_liver,liver
+3239_067929_aorta,aorta
+3240_067929_heart,heart 
+3241_067929_kidneyright,kidney right
+3242_067929_liver,liver
+3243_068179_aorta,aorta
+3244_068179_heart,heart 
+3245_068179_kidneyright,kidney right
+3246_068179_liver,liver
+3247_068738_aorta,aorta
+3248_068738_heart,heart 
+3249_068738_kidneyright,kidney right
+3250_068738_liver,liver
+3251_068961_aorta,aorta
+3252_068961_heart,heart 
+3253_068961_kidneyright,kidney right
+3254_068961_liver,liver
+3255_069186_aorta,aorta
+3256_069186_heart,heart 
+3257_069186_kidneyright,kidney right
+3258_069186_liver,liver
+3259_069901_aorta,aorta
+3260_069901_heart,heart 
+3261_069901_kidneyright,kidney right
+3262_069901_liver,liver
+3263_069934_aorta,aorta
+3264_069934_heart,heart 
+3265_069934_kidneyright,kidney right
+3266_069934_liver,liver
+3267_070383_aorta,aorta
+3268_070383_heart,heart 
+3269_070383_kidneyright,kidney right
+3270_070383_liver,liver
+3271_070669_aorta,aorta
+3272_070669_heart,heart 
+3273_070669_kidneyright,kidney right
+3274_070669_liver,liver
+3275_070937_aorta,aorta
+3276_070937_heart,heart 
+3277_070937_kidneyright,kidney right
+3278_070937_liver,liver
+3279_071743_aorta,aorta
+3280_071743_heart,heart 
+3281_071743_kidneyright,kidney right
+3282_071743_liver,liver
+3283_072010_aorta,aorta
+3284_072010_heart,heart 
+3285_072010_kidneyright,kidney right
+3286_072010_liver,liver
+3287_072081_aorta,aorta
+3288_072081_heart,heart 
+3289_072081_kidneyright,kidney right
+3290_072081_liver,liver
+3291_072347_aorta,aorta
+3292_072347_heart,heart 
+3293_072347_kidneyright,kidney right
+3294_072347_liver,liver
+3295_072389_aorta,aorta
+3296_072389_heart,heart 
+3297_072389_liver,liver
+3298_073138_aorta,aorta
+3299_073138_heart,heart 
+3300_073138_liver,liver
+3301_073351_aorta,aorta
+3302_073351_heart,heart 
+3303_073351_kidneyright,kidney right
+3304_073351_liver,liver
+3305_073465_aorta,aorta
+3306_073465_heart,heart 
+3307_073465_kidneyright,kidney right
+3308_073465_liver,liver
+3309_073563_aorta,aorta
+3310_073563_heart,heart 
+3311_073563_kidneyright,kidney right
+3312_073563_liver,liver
+3313_073875_aorta,aorta
+3314_073875_heart,heart 
+3315_073875_kidneyright,kidney right
+3316_073875_liver,liver
+3317_074496_aorta,aorta
+3318_074496_heart,heart 
+3319_074496_kidneyright,kidney right
+3320_074496_liver,liver
+3321_075049_aorta,aorta
+3322_075049_heart,heart 
+3323_075049_kidneyright,kidney right
+3324_075049_liver,liver
+3325_075415_aorta,aorta
+3326_075415_heart,heart 
+3327_075415_kidneyright,kidney right
+3328_075415_liver,liver
+3329_075418_aorta,aorta
+3330_075418_heart,heart 
+3331_075418_kidneyright,kidney right
+3332_075418_liver,liver
+3333_075551_aorta,aorta
+3334_075551_heart,heart 
+3335_075551_kidneyright,kidney right
+3336_075551_liver,liver
+3337_075693_aorta,aorta
+3338_075693_heart,heart 
+3339_075693_kidneyright,kidney right
+3340_075693_liver,liver
+3341_075918_aorta,aorta
+3342_075918_heart,heart 
+3343_075918_kidneyright,kidney right
+3344_075918_liver,liver
+3345_075929_aorta,aorta
+3346_075929_heart,heart 
+3347_075929_kidneyright,kidney right
+3348_075929_liver,liver
+3349_077090_aorta,aorta
+3350_077090_heart,heart 
+3351_077090_kidneyright,kidney right
+3352_077090_liver,liver
+3353_077235_aorta,aorta
+3354_077235_heart,heart 
+3355_077235_kidneyright,kidney right
+3356_077235_liver,liver
+3357_077260_aorta,aorta
+3358_077260_heart,heart 
+3359_077260_kidneyright,kidney right
+3360_077260_liver,liver
+3361_078148_aorta,aorta
+3362_078148_heart,heart 
+3363_078148_kidneyright,kidney right
+3364_078148_liver,liver
+3365_078645_aorta,aorta
+3366_078645_heart,heart 
+3367_078645_kidneyright,kidney right
+3368_078645_liver,liver
+3369_078651_aorta,aorta
+3370_078651_heart,heart 
+3371_078651_kidneyright,kidney right
+3372_078651_liver,liver
+3373_079881_aorta,aorta
+3374_079881_heart,heart 
+3375_079881_kidneyright,kidney right
+3376_079881_liver,liver
+3377_080184_aorta,aorta
+3378_080184_heart,heart 
+3379_080184_kidneyright,kidney right
+3380_080184_liver,liver
+3381_080221_aorta,aorta
+3382_080221_heart,heart 
+3383_080221_kidneyright,kidney right
+3384_080221_liver,liver
+3385_080269_aorta,aorta
+3386_080269_heart,heart 
+3387_080269_kidneyright,kidney right
+3388_080269_liver,liver
+3389_080674_aorta,aorta
+3390_080674_heart,heart 
+3391_080674_kidneyright,kidney right
+3392_080674_liver,liver
+3393_082224_aorta,aorta
+3394_082224_heart,heart 
+3395_082224_kidneyright,kidney right
+3396_082224_liver,liver
+3397_082544_aorta,aorta
+3398_082544_heart,heart 
+3399_082544_kidneyright,kidney right
+3400_082544_liver,liver
+3401_083154_aorta,aorta
+3402_083154_heart,heart 
+3403_083154_kidneyright,kidney right
+3404_083154_liver,liver
+3405_083616_aorta,aorta
+3406_083616_heart,heart 
+3407_083616_kidneyright,kidney right
+3408_083616_liver,liver
+3409_083783_aorta,aorta
+3410_083783_heart,heart 
+3411_083783_kidneyright,kidney right
+3412_083783_liver,liver
+3413_084161_aorta,aorta
+3414_084161_heart,heart 
+3415_084161_kidneyright,kidney right
+3416_084161_liver,liver
+3417_084728_aorta,aorta
+3418_084728_heart,heart 
+3419_084728_kidneyright,kidney right
+3420_084728_liver,liver
+3421_085229_aorta,aorta
+3422_085229_heart,heart 
+3423_085229_kidneyright,kidney right
+3424_085229_liver,liver
+3425_085489_aorta,aorta
+3426_085489_heart,heart 
+3427_085489_kidneyright,kidney right
+3428_085489_liver,liver
+3429_085763_aorta,aorta
+3430_085763_heart,heart 
+3431_085763_kidneyright,kidney right
+3432_085763_liver,liver
+3433_086237_aorta,aorta
+3434_086237_heart,heart 
+3435_086237_kidneyright,kidney right
+3436_086237_liver,liver
+3437_086609_aorta,aorta
+3438_086609_heart,heart 
+3439_086609_kidneyright,kidney right
+3440_086609_liver,liver
+3441_086763_aorta,aorta
+3442_086763_heart,heart 
+3443_086763_kidneyright,kidney right
+3444_086763_liver,liver
+3445_087631_aorta,aorta
+3446_087631_heart,heart 
+3447_087631_kidneyright,kidney right
+3448_087631_liver,liver
+3449_087956_aorta,aorta
+3450_087956_heart,heart 
+3451_087956_kidneyright,kidney right
+3452_087956_liver,liver
+3453_087979_aorta,aorta
+3454_087979_heart,heart 
+3455_087979_kidneyright,kidney right
+3456_087979_liver,liver
+3457_088669_aorta,aorta
+3458_088669_heart,heart 
+3459_088669_kidneyright,kidney right
+3460_088669_liver,liver
+3461_089111_aorta,aorta
+3462_089111_heart,heart 
+3463_089111_kidneyright,kidney right
+3464_089111_liver,liver
+3465_089194_aorta,aorta
+3466_089194_heart,heart 
+3467_089194_kidneyright,kidney right
+3468_089194_liver,liver
+3469_089268_aorta,aorta
+3470_089268_heart,heart 
+3471_089268_kidneyright,kidney right
+3472_089268_liver,liver
+3473_089491_aorta,aorta
+3474_089491_heart,heart 
+3475_089491_kidneyright,kidney right
+3476_089491_liver,liver
+3477_089747_aorta,aorta
+3478_089747_heart,heart 
+3479_089747_kidneyright,kidney right
+3480_089747_liver,liver
+3481_090087_aorta,aorta
+3482_090087_heart,heart 
+3483_090087_kidneyright,kidney right
+3484_090087_liver,liver
+3485_090464_aorta,aorta
+3486_090464_heart,heart 
+3487_090464_kidneyright,kidney right
+3488_090464_liver,liver
+3489_090513_aorta,aorta
+3490_090513_heart,heart 
+3491_090513_kidneyright,kidney right
+3492_090513_liver,liver
+3493_091235_aorta,aorta
+3494_091235_heart,heart 
+3495_091235_kidneyright,kidney right
+3496_091235_liver,liver
+3497_091344_aorta,aorta
+3498_091344_heart,heart 
+3499_091344_kidneyright,kidney right
+3500_091344_liver,liver
+3501_092807_aorta,aorta
+3502_092807_heart,heart 
+3503_092807_kidneyright,kidney right
+3504_092807_liver,liver
+3505_093089_aorta,aorta
+3506_093089_heart,heart 
+3507_093089_kidneyright,kidney right
+3508_093089_liver,liver
+3509_094215_aorta,aorta
+3510_094215_heart,heart 
+3511_094215_kidneyright,kidney right
+3512_094215_liver,liver
+3513_094391_aorta,aorta
+3514_094391_heart,heart 
+3515_094391_kidneyright,kidney right
+3516_094391_liver,liver
+3517_095123_aorta,aorta
+3518_095123_heart,heart 
+3519_095123_kidneyright,kidney right
+3520_095123_liver,liver
+3521_095778_aorta,aorta
+3522_095778_heart,heart 
+3523_095778_kidneyright,kidney right
+3524_095778_liver,liver
+3525_095846_aorta,aorta
+3526_095846_heart,heart 
+3527_095846_kidneyright,kidney right
+3528_095846_liver,liver
+3529_095962_aorta,aorta
+3530_095962_heart,heart 
+3531_095962_kidneyright,kidney right
+3532_095962_liver,liver
+3533_096001_aorta,aorta
+3534_096001_heart,heart 
+3535_096001_kidneyright,kidney right
+3536_096001_liver,liver
+3537_096605_aorta,aorta
+3538_096605_heart,heart 
+3539_096605_kidneyright,kidney right
+3540_096605_liver,liver
+3541_096698_aorta,aorta
+3542_096698_heart,heart 
+3543_096698_kidneyright,kidney right
+3544_096698_liver,liver
+3545_096761_aorta,aorta
+3546_096761_heart,heart 
+3547_096761_kidneyright,kidney right
+3548_096761_liver,liver
+3549_096920_aorta,aorta
+3550_096920_heart,heart 
+3551_096920_kidneyright,kidney right
+3552_096920_liver,liver
+3553_097021_aorta,aorta
+3554_097021_heart,heart 
+3555_097021_kidneyright,kidney right
+3556_097021_liver,liver
+3557_097036_aorta,aorta
+3558_097036_heart,heart 
+3559_097036_kidneyright,kidney right
+3560_097036_liver,liver
+3561_097446_aorta,aorta
+3562_097446_heart,heart 
+3563_097446_kidneyright,kidney right
+3564_097446_liver,liver
+3565_097964_aorta,aorta
+3566_097964_heart,heart 
+3567_097964_kidneyright,kidney right
+3568_097964_liver,liver
+3569_098015_aorta,aorta
+3570_098015_heart,heart 
+3571_098015_kidneyright,kidney right
+3572_098015_liver,liver
+3573_099033_aorta,aorta
+3574_099033_heart,heart 
+3575_099033_kidneyright,kidney right
+3576_099033_liver,liver
+3577_099061_aorta,aorta
+3578_099061_heart,heart 
+3579_099061_kidneyright,kidney right
+3580_099061_liver,liver
+3581_099283_aorta,aorta
+3582_099283_heart,heart 
+3583_099283_kidneyright,kidney right
+3584_099283_liver,liver
+3585_099815_aorta,aorta
+3586_099815_heart,heart 
+3587_099815_kidneyright,kidney right
+3588_099815_liver,liver
