@@ -50,6 +50,8 @@ Para crear los estados latentes .pt se usa el script de python [`encode_model_bl
 
 Luego de ejecutar este script, se generara una carpeta `dataset_obj` con un archivo `.pt` por cada ejemplo seleccionado. Cada uno de estos archivos se genera en un proceso en que se descarga el archivo STL original, se convierte a formato OBJ y luego se convierte a un tensor de torch con estados latentes en formato `.pt` utilizando el modulo `transmitter` de `Shap-e`.
 
+Se adjuntan unos pocos [estados latentes](dataset_obj) para su revision, pero se recomienda ejecutar el script de nuevo para descargar todos los latentes, ya que con 3.589 ejemplos este proceso tomo 10 dias y culmino en una carpeta de 15 GB.
+
 
 ### 2. Division en train-val-test
 Para dividir en train-val-test se usa el notebook [`train_test_split.ipynb`](train_test_split.ipynb), que se puede usar desde jupyter notebook. Para lanzar jupyter notebook se activa el environment y luego se ejecuta el comando `jupyter notebook`. Luego, desde la interfaz grafica de IPython se puede abri este notebook, donde se pueden elegir, en la segunda celda, las siguientes configuraciones:
