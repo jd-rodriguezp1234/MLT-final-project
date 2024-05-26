@@ -43,7 +43,7 @@ Si ocurren errores de instalacion al instalar `Shap-e` o el archivo de `requirem
 Para crear las mallas de entrenamiento se tiene un proceso de ejecucion de dos pasos, en que primero se crea la carpeta de archivos .pt, es decir, las estados latentes, y despues se utilizan estas mallas para generar particiones train-val-test.
 
 ### 1. Creacion de estados latentes .pt
-Para crear los estados latentes .pt se usa el script de python `encode_model_blender.py`, el cual debe ser ejecutado desde esta carpeta con el comando `python encode_model_blender.py`. Antes de su ejecucion se deben seguir los siguientes pasos:
+Para crear los estados latentes .pt se usa el script de python [`encode_model_blender.py`](encode_model_blender.py), el cual debe ser ejecutado desde esta carpeta con el comando `python encode_model_blender.py`. Antes de su ejecucion se deben seguir los siguientes pasos:
 
 - Cambiar la ruta de blender en la linea 28 `os.environ["BLENDER_PATH"] = "./blender-3.3.1-linux-x64/blender"` a la encontrada en el paso de `Instalacion de blender`.
 - Cambiar el tamano de muestra en la linea 22 `SAMPLE_SIZE = 600` al numero de ejemplos con el cual se quiere entrenar.
@@ -52,7 +52,7 @@ Luego de ejecutar este script, se generara una carpeta `dataset_obj` con un arch
 
 
 ### 2. Division en train-val-test
-Para dividir en train-val-test se usa el notebook `train_test_split.ipynb`, que se puede usar desde jupyter notebook. Para lanzar jupyter notebook se activa el environment y luego se ejecuta el comando `jupyter notebook`. Luego, desde la interfaz grafica de IPython se puede abri este notebook, donde se pueden elegir, en la segunda celda, las siguientes configuraciones:
+Para dividir en train-val-test se usa el notebook [`train_test_split.ipynb`](train_test_split.ipynb), que se puede usar desde jupyter notebook. Para lanzar jupyter notebook se activa el environment y luego se ejecuta el comando `jupyter notebook`. Luego, desde la interfaz grafica de IPython se puede abri este notebook, donde se pueden elegir, en la segunda celda, las siguientes configuraciones:
 
 - **TEST_SIZE:** Porcion que se va a usar para validacion y test.
 - **VAL_SIZE:** Porcion que se va a usar de validacion y test para validacion.
