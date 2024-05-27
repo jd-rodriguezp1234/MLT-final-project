@@ -1,5 +1,8 @@
 # Proyecto final de Machine Learning Techinques
 
+## Resumen en video
+- El siguiente [video](https://uniandes-my.sharepoint.com/personal/mv_robles_uniandes_edu_co/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmv%5Frobles%5Funiandes%5Fedu%5Fco%2FDocuments%2FCursos%20Maestr%C3%ADa%2FProyecto%20MLT%2FVideo%20proyecto&ga=1) contiene la informacion resumida del proceso completo.
+
 ## Integrantes
 - Nicolas Laverde Manotas
 - Melissa Robles Carmona
